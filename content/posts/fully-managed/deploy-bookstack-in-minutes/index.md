@@ -12,8 +12,7 @@ cover:
   relative: true
 ShowToc: true
 TocOpen: true
----
-# Deploy BookStack in Minutes with OctaByte.io  
+--- 
 
 BookStack is a powerful, open-source wiki system that simplifies knowledge management for individuals and teams. With OctaByte.io, you can deploy BookStack in just minutes and start organizing your documentation effortlessly.  
 
