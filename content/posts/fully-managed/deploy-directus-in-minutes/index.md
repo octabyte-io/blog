@@ -4,7 +4,7 @@ title: "Deploy Directus in Minutes with OctaByte.io"
 date: "2024-12-27"
 description: "Effortlessly deploy Directus, the powerful open-source SQL database management platform, with OctaByte.io. Enjoy fully managed hosting, automatic updates, and expert support. Try for free today!"
 tags: [Directus deployment, OctaByte hosting, open-source software, SQL database management, managed hosting, Directus features, OctaByte free trial, deploy Directus, secure hosting, SSL management]
-categories: [Fully managed, Open Source, Applications, CMS]
+categories: [Fully managed, Open Source Hosting, Applications, CMS]
 cover:
   image: images/cover.png
   caption: "Deploy Directus in Minutes with OctaByte.io"

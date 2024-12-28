@@ -5,7 +5,7 @@ date: "2024-12-26"
 description: "
 Effortlessly deploy BookStack with OctaByte.io. Enjoy fully managed hosting, automated backups, seamless SSL, and dedicated support for your open-source wiki."
 tags: [BookStack, deploy BookStack, BookStack hosting, open-source wiki, knowledge management, OctaByte, managed hosting, automated backups, SSL management, open-source software, wiki system, BookStack deployment]
-categories: [Fully managed, Open Source, Deploy on OctaByte, Applications, Documentation]
+categories: [Fully managed, Open Source Hosting, Deploy on OctaByte, Applications, Documentation]
 cover:
   image: images/cover.png
   caption: "Deploy BookStack in Minutes with OctaByte.io"

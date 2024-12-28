@@ -4,7 +4,7 @@ title: "Deploy Dolibarr in Minutes with OctaByte.io"
 date: "2024-12-27"
 description: "Learn how to deploy Dolibarr, the powerful open-source business management software, in minutes with OctaByte.io. Enjoy fully managed hosting, automated backups, and dedicated support for a seamless experience."
 tags: [Dolibarr, deploy Dolibarr, Dolibarr hosting, fully managed Dolibarr, open-source business software, OctaByte, automated backups, SSL management, managed hosting, business management tools]
-categories: [Fully managed, Open Source, Applications, CRM, ERP]
+categories: [Fully managed, Open Source Hosting, Applications, CRM, ERP]
 cover:
   image: images/cover.png
   caption: "Deploy Dolibarr in Minutes with OctaByte.io"

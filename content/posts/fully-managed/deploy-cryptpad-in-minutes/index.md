@@ -4,7 +4,7 @@ title: "Deploy CryptPad in Minutes with OctaByte.io"
 date: "2024-12-27"
 description: "Discover how you can deploy CryptPad, the secure and end-to-end encrypted collaboration suite, in just minutes with OctaByte.io’s fully managed hosting platform."
 tags: [CryptPad hosting, deploy CryptPad, secure collaboration tool, end-to-end encryption, open-source hosting, OctaByte.io, managed CryptPad hosting]
-categories: [Fully managed, Open Source, Applications, CRM]
+categories: [Fully managed, Open Source Hosting, Applications, CRM]
 cover:
   image: images/cover.png
   caption: "Deploy CryptPad in Minutes with OctaByte.io"
