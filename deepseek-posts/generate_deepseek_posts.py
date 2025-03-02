@@ -42,6 +42,9 @@ def generate_posts(file_path):
 
         print(f"Category: {category_name}")
 
+        if category_id == "databases":
+            continue
+
         for service in catalog.get("services", []):
             software_id = service['id']
             software_name = service['title']
