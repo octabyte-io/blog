@@ -42,7 +42,7 @@ def generate_posts(file_path):
 
         print(f"Category: {category_name}")
 
-        if category_id == "databases":
+        if category_id == "databases" or category_id == "applications":
             continue
 
         for service in catalog.get("services", []):
@@ -91,8 +91,9 @@ def generate_posts(file_path):
                 print(f"Error generating post for {software_name}: {e}")
 
         print(f"Category {category_name} completed")
-        exit(1)
 
 file_path = "services.yaml"
 generate_posts(file_path)
+
+print("Completed!!!")
 
