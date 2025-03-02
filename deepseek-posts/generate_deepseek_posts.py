@@ -42,15 +42,14 @@ def generate_posts(file_path):
 
         print(f"Category: {category_name}")
 
-        category_dir = f"posts/{category_id}"
-
-        os.makedirs(category_dir, exist_ok=True)
-
-        exit(1)
-
         for service in catalog.get("services", []):
             software_id = service['id']
             software_name = service['title']
+            software_category = service['category'].split()[0]
+
+            post_dir = f"posts/{category_id}/{software_category}"
+
+            os.makedirs(post_dir, exist_ok=True)
 
             print(f"Generating post for {software_name} ...")
 
@@ -76,7 +75,7 @@ def generate_posts(file_path):
                 blog_content = response.json()["choices"][0]["message"]["content"]
 
                 # Save to Markdown file
-                filename = f"{category_dir}/{software_id}.md"
+                filename = f"{post_dir}/{software_id}.md"
                 with open(filename, "w", encoding="utf-8") as f:
                     f.write(blog_content)
 
@@ -87,6 +86,9 @@ def generate_posts(file_path):
 
             except Exception as e:
                 print(f"Error generating post for {software_name}: {e}")
+
+        print(f"Category {category_name} completed")
+        exit(1)
 
 file_path = "services.yaml"
 generate_posts(file_path)
