@@ -71,6 +71,5 @@ with open("services.json", "r") as file:
 for software_id, software in services.items():
     print(f"Generating post for {software_id} ...")
     generate_posts(software)
-    exit(1)
 
 print("Complete!!!")

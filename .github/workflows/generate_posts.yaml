@@ -27,6 +27,7 @@ jobs:
         run: |
           cd deepseek-posts
           python generate_posts.py
+        continue-on-error: true
 
       - name: Commit and push changes
         run: |
