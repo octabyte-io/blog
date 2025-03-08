@@ -70,6 +70,12 @@ with open("services.json", "r") as file:
 # Loop through all software entries and generate blog posts
 for software_id, software in services.items():
     print(f"Generating post for {software_id} ...")
+    filename = f"posts/{software_id}.md"
+
+    if os.path.exists(filename):
+        print(f"File {filename} already exist, skip")
+        continue
+
     generate_posts(software)
 
 print("Complete!!!")
