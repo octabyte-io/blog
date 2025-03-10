@@ -1,20 +1,11 @@
 ```markdown
 # GoRules: The Open-Source Business Rules Engine for Rust, NodeJS, Python, and Go
 
-## Short Description
+**Short Description:**  
 Discover GoRules, the open-source business rules engine designed for Rust, NodeJS, Python, and Go. Learn how GoRules simplifies rule management, enhances decision-making, and integrates seamlessly with your tech stack. Perfect for developers and businesses looking for a flexible, scalable, and efficient rules engine.
 
-## Keywords
-- GoRules
-- Open-source business rules engine
-- Rust rules engine
-- NodeJS rules engine
-- Python rules engine
-- Go rules engine
-- Business rules management
-- Decision-making software
-- Open-source software
-- OctaByte managed services
+**Keywords:**  
+GoRules, Open-source business rules engine, Rust rules engine, NodeJS rules engine, Python rules engine, Go rules engine, Business rules management, Decision-making software, Open-source software, OctaByte managed services
 
 ---
 

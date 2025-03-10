@@ -1,8 +1,10 @@
 # Firefish - A Powerful Microblogging Platform in the Fediverse  
 
-**Short Description**: Discover Firefish, a robust and user-friendly microblogging platform in the Fediverse. Learn how it compares to other platforms, its unique features, and why it’s a great choice for decentralized social networking.  
+**Short Description:**  
+Discover Firefish, a robust and user-friendly microblogging platform in the Fediverse. Learn how it compares to other platforms, its unique features, and why it’s a great choice for decentralized social networking.  
 
-**Keywords**: Firefish, Fediverse, microblogging platform, decentralized social media, Firefish vs Mastodon, open source social networking, Firefish features, Firefish installation, managed Firefish hosting  
+**Keywords:**  
+Firefish, Fediverse, microblogging platform, decentralized social media, Firefish vs Mastodon, open source social networking, Firefish features, Firefish installation, managed Firefish hosting  
 
 ---
 

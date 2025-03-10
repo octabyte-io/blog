@@ -1,10 +1,10 @@
 ```markdown
 # FrappeHR - Open-Source HRMS for Seamless HR & Payroll Management
 
-## Short Description
+**Short Description:**  
 Discover how FrappeHR, an open-source HRMS, can revolutionize your HR and payroll management. Learn about its features, benefits, and how it compares to other HR software solutions.
 
-## Keywords
+**Keywords:**  
 FrappeHR, Open-Source HRMS, HR and Payroll Management, HR Software Comparison, FrappeHR Features, OctaByte Managed Services
 
 ---
