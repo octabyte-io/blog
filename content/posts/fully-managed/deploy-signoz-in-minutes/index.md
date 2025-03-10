@@ -4,7 +4,7 @@ title: "Deploy SigNoz in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of SigNoz, an open-source observability platform. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [SigNoz deployment, open-source observability, managed SigNoz, OctaByte, observability platform, managed open-source software, SigNoz benefits, DevOps tools, application monitoring, log management, distributed tracing]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "SigNoz"]
 cover:
   image: images/cover.png
   caption: "Deploy SigNoz in Minutes with OctaByte.io"

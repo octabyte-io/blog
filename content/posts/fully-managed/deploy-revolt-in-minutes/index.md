@@ -4,7 +4,7 @@ title: "Deploy Revolt in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Revolt, the open-source communication platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Revolt, Revolt deployment, OctaByte, open-source communication platform, managed Revolt hosting, automatic backups, SSL management, cost-effective Revolt hosting, Revolt support, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Revolt"]
 cover:
   image: images/cover.png
   caption: "Deploy Revolt in Minutes with OctaByte.io"

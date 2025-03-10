@@ -4,7 +4,7 @@ title: "Deploy PhotoPrism in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing PhotoPrism, a powerful open-source photo management solution, effortless. Save time, reduce costs, and enjoy seamless photo organization with our fully managed services."
 tags: [PhotoPrism, deploy PhotoPrism, managed PhotoPrism, open-source photo management, OctaByte, photo organization, managed open-source software, automatic backups, SSL management, cost-effective photo management]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "PhotoPrism"]
 cover:
   image: images/cover.png
   caption: "Deploy PhotoPrism in Minutes with OctaByte.io"

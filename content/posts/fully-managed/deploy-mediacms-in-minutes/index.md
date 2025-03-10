@@ -4,7 +4,7 @@ title: "Deploy MediaCMS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of MediaCMS, a powerful open-source video and media management platform. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [MediaCMS, deploy MediaCMS, open-source video management, managed MediaCMS hosting, OctaByte, video CMS, MediaCMS deployment, managed open-source software, MediaCMS benefits, secure video hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "MediaCMS"]
 cover:
   image: images/cover.png
   caption: "Deploy MediaCMS in Minutes with OctaByte.io"

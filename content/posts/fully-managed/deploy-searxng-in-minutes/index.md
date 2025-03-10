@@ -4,7 +4,7 @@ title: "Deploy SearXNG in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying SearXNG, a privacy-respecting metasearch engine, quick and effortless. Learn why SearXNG is a game-changer for secure and private web searches, and how OctaByte’s fully managed services simplify the process for you."
 tags: [SearXNG, deploy SearXNG, privacy-focused search engine, OctaByte, managed open-source software, secure web search, private search engine, open-source deployment, managed hosting, automatic SSL, data privacy, cost-effective hosting, open-source solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "SearXNG"]
 cover:
   image: images/cover.png
   caption: "Deploy SearXNG in Minutes with OctaByte.io"

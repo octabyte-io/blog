@@ -4,7 +4,7 @@ title: "Deploy Friendica in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Friendica, the decentralized social networking platform, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Friendica deployment, managed Friendica hosting, decentralized social network, OctaByte, open-source software hosting, managed open-source services, Friendica benefits, secure social networking, automatic backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Friendica"]
 cover:
   image: images/cover.png
   caption: "Deploy Friendica in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy HAProxy in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of HAProxy, a powerful open-source load balancer and proxy server. Learn why HAProxy is essential for modern applications and how OctaByte.io ensures a seamless, secure, and cost-effective solution for your infrastructure needs."
 tags: [HAProxy, deploy HAProxy, load balancer, proxy server, OctaByte, managed HAProxy, open-source software, high availability, SSL management, automatic backups, cost-effective solutions, IT infrastructure, seamless deployment, managed services, open-source load balancer]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "HAProxy"]
 cover:
   image: images/cover.png
   caption: "Deploy HAProxy in Minutes with OctaByte.io"

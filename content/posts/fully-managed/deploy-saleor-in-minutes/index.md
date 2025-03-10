@@ -4,7 +4,7 @@ title: "Deploy Saleor in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Saleor, a cutting-edge open-source e-commerce platform. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Saleor deployment, open-source e-commerce, managed Saleor hosting, OctaByte, Saleor benefits, e-commerce platform, managed open-source software, Saleor setup, Saleor hosting, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Saleor"]
 cover:
   image: images/cover.png
   caption: "Deploy Saleor in Minutes with OctaByte.io"

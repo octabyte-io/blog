@@ -4,7 +4,7 @@ title: "Deploy Moodle in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Moodle deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless operation. Learn why Moodle is a powerful tool for online learning and how OctaByte makes it effortless to deploy and manage."
 tags: [Moodle deployment, managed Moodle hosting, OctaByte, open-source LMS, online learning platform, Moodle setup, managed open-source software, Moodle benefits, Moodle hosting solutions, OctaByte Moodle services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Moodle"]
 cover:
   image: images/cover.png
   caption: "Deploy Moodle in Minutes with OctaByte.io"

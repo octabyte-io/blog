@@ -4,7 +4,7 @@ title: "Deploy Syncthing in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Syncthing deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless synchronization across your devices. Learn why Syncthing is a game-changer for secure file sharing and how OctaByte makes it effortless to use."
 tags: [Syncthing deployment, managed Syncthing, OctaByte, secure file synchronization, open-source software hosting, managed IT services, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "Syncthing"]
 cover:
   image: images/cover.png
   caption: "Deploy Syncthing in Minutes with OctaByte.io"

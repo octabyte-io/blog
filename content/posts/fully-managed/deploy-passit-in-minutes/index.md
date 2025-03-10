@@ -4,7 +4,7 @@ title: "Deploy Passit in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Passit, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Passit deployment, OctaByte, managed open-source software, Passit benefits, automatic backups, SSL management, cost-effective software deployment, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Passit"]
 cover:
   image: images/cover.png
   caption: "Deploy Passit in Minutes with OctaByte.io"

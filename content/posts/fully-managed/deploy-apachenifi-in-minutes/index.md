@@ -4,7 +4,7 @@ title: "Deploy ApacheNiFi in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Apache NiFi, a powerful data integration tool. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Apache NiFi, OctaByte, data integration, managed services, deploy Apache NiFi, open-source software, automated backups, SSL management, cost-effective solutions, IT support]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "ApacheNiFi"]
 cover:
   image: images/cover.png
   caption: "Deploy ApacheNiFi in Minutes with OctaByte.io"

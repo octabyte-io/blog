@@ -4,7 +4,7 @@ title: "Deploy ZincSearch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ZincSearch, a lightweight, high-performance search engine. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [ZincSearch, OctaByte, managed ZincSearch, open-source search engine, deploy ZincSearch, managed open-source software, ZincSearch hosting, ZincSearch deployment, cost-effective search engine, ZincSearch support]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "ZincSearch"]
 cover:
   image: images/cover.png
   caption: "Deploy ZincSearch in Minutes with OctaByte.io"

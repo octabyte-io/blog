@@ -4,7 +4,7 @@ title: "Deploy MetabasePostgres in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying MetabasePostgres effortless. Learn what MetabasePostgres is, why it’s a game-changer for data visualization, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [MetabasePostgres, deploy MetabasePostgres, managed MetabasePostgres, OctaByte, data visualization, open-source software, managed services, automated backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Business Intelligence]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Business Intelligence", "MetabasePostgres"]
 cover:
   image: images/cover.png
   caption: "Deploy MetabasePostgres in Minutes with OctaByte.io"

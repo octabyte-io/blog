@@ -4,7 +4,7 @@ title: "Deploy Cells in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of **Cells**, an open-source software, with fully managed services. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Deploy Cells, Cells open-source software, OctaByte, managed open-source services, automatic backups, SSL management, cost-effective software deployment, open-source software hosting, Cells deployment benefits]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Cms", "Cells"]
 cover:
   image: images/cover.png
   caption: "Deploy Cells in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy iTop in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing iTop, the powerful open-source IT service management tool, effortless. Save time, reduce costs, and enjoy seamless IT operations with OctaByte's fully managed services."
 tags: [iTop deployment, iTop managed services, OctaByte, IT service management, open-source ITSM, managed iTop hosting, IT operations, cost-effective ITSM, automated backups, SSL management, IT support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Infrastructure]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Infrastructure", "iTop"]
 cover:
   image: images/cover.png
   caption: "Deploy iTop in Minutes with OctaByte.io"

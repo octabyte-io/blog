@@ -4,7 +4,7 @@ title: "Deploy MinIO in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MinIO, the high-performance object storage solution. Save time, reduce costs, and enjoy seamless scalability with our fully managed services."
 tags: [MinIO deployment, managed MinIO services, OctaByte, object storage, cloud storage, MinIO hosting, managed IT services, open-source software hosting, scalable storage solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "MinIO"]
 cover:
   image: images/cover.png
   caption: "Deploy MinIO in Minutes with OctaByte.io"

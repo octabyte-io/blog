@@ -4,7 +4,7 @@ title: "Deploy Zulip in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Zulip, the powerful open-source team collaboration tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [deploy Zulip, Zulip deployment, OctaByte, managed Zulip, open-source team collaboration, Zulip benefits, managed open-source software, Zulip hosting, Zulip setup, OctaByte Zulip]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Zulip"]
 cover:
   image: images/cover.png
   caption: "Deploy Zulip in Minutes with OctaByte.io"

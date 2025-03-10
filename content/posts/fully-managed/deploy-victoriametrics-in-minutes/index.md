@@ -4,7 +4,7 @@ title: "Deploy VictoriaMetrics in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of VictoriaMetrics, a powerful time-series database, saving you time, effort, and resources. Learn why VictoriaMetrics is a game-changer for monitoring and analytics, and how OctaByte makes it hassle-free."
 tags: [VictoriaMetrics, deploy VictoriaMetrics, managed VictoriaMetrics, time-series database, OctaByte, open-source software, managed services, monitoring and analytics, cost-effective solutions, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "VictoriaMetrics"]
 cover:
   image: images/cover.png
   caption: "Deploy VictoriaMetrics in Minutes with OctaByte.io"

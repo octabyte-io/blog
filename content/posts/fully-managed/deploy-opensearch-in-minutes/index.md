@@ -4,7 +4,7 @@ title: "Deploy OpenSearch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OpenSearch, a powerful open-source search and analytics engine. Save time, reduce costs, and enjoy seamless scalability with OctaByte's fully managed services."
 tags: [OpenSearch, deploy OpenSearch, managed OpenSearch, OctaByte, open-source search engine, analytics engine, managed open-source services, OpenSearch deployment, OpenSearch benefits, OctaByte OpenSearch]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "Specialized Databases", "OpenSearch"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenSearch in Minutes with OctaByte.io"

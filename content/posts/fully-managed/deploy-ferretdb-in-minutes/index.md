@@ -4,7 +4,7 @@ title: "Deploy FerretDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying FerretDB effortless. Learn what FerretDB is, why it’s a game-changer for MongoDB compatibility, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [FerretDB, MongoDB alternative, deploy FerretDB, managed FerretDB, OctaByte, open-source database, managed database services, FerretDB deployment, cost-effective database, secure database hosting]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "FerretDB"]
 cover:
   image: images/cover.png
   caption: "Deploy FerretDB in Minutes with OctaByte.io"

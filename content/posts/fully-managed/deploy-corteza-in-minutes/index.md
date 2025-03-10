@@ -4,7 +4,7 @@ title: "Deploy Corteza in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Corteza, a powerful open-source low-code platform. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Corteza deployment, low-code platform, open-source software, managed services, OctaByte, Corteza hosting, automated backups, SSL management, cost-effective solutions, time-saving deployment]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Corteza"]
 cover:
   image: images/cover.png
   caption: "Deploy Corteza in Minutes with OctaByte.io"

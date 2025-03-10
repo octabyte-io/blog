@@ -4,7 +4,7 @@ title: "Deploy InfluxDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of InfluxDB, a powerful time-series database. Learn why InfluxDB is essential for handling time-stamped data and how OctaByte's fully managed services save you time, money, and effort."
 tags: [Deploy InfluxDB, Managed InfluxDB, OctaByte, Time-Series Database, InfluxDB Hosting, Managed Open Source Software, InfluxDB Deployment, Automated Backups, SSL Management, InfluxDB Support]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "InfluxDB"]
 cover:
   image: images/cover.png
   caption: "Deploy InfluxDB in Minutes with OctaByte.io"

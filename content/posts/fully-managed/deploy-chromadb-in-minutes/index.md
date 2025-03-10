@@ -4,7 +4,7 @@ title: "Deploy Chromadb in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ChromaDB, a powerful vector database for AI and machine learning applications. Save time, reduce costs, and enjoy seamless support with our fully managed services."
 tags: [ChromaDB deployment, managed ChromaDB, OctaByte, vector database, AI database, machine learning database, managed open-source software, ChromaDB hosting, automated backups, SSL management, AI infrastructure]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "Chromadb"]
 cover:
   image: images/cover.png
   caption: "Deploy Chromadb in Minutes with OctaByte.io"

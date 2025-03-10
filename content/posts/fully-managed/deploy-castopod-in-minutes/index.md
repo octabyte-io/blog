@@ -4,7 +4,7 @@ title: "Deploy Castopod in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Castopod, the open-source podcast hosting platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Castopod, Castopod hosting, managed Castopod, open-source podcast hosting, OctaByte, podcast hosting solutions, managed open-source software, Castopod deployment, podcast platform, managed IT services]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "Castopod"]
 cover:
   image: images/cover.png
   caption: "Deploy Castopod in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy NocoBase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of NocoBase, a powerful open-source no-code database platform. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [NocoBase deployment, OctaByte, no-code database, managed open-source software, automatic backups, SSL management, cost-effective solutions, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "NocoBase"]
 cover:
   image: images/cover.png
   caption: "Deploy NocoBase in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy OJS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Open Journal Systems (OJS), a powerful open-source software for managing scholarly journals. Learn why OJS is essential for academic publishing and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Deploy OJS, Open Journal Systems, OctaByte, managed OJS hosting, academic publishing software, open-source journal management, OJS deployment, scholarly journal hosting, OJS benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "OJS"]
 cover:
   image: images/cover.png
   caption: "Deploy OJS in Minutes with OctaByte.io"

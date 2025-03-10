@@ -4,7 +4,7 @@ title: "Deploy Neo4j in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Neo4j deployment and management. Learn what Neo4j is, its benefits, and why deploying it with OctaByte saves time, reduces costs, and ensures seamless performance."
 tags: [Neo4j deployment, Neo4j managed services, OctaByte, graph database, Neo4j benefits, managed Neo4j hosting, open-source software deployment, Neo4j automation, Neo4j support, Neo4j SSL management]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "Neo4j"]
 cover:
   image: images/cover.png
   caption: "Deploy Neo4j in Minutes with OctaByte.io"

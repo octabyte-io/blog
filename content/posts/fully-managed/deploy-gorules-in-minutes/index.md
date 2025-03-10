@@ -4,7 +4,7 @@ title: "Deploy GoRules in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of GoRules, a powerful open-source rule engine. Learn why GoRules is essential for automating decision-making processes and how OctaByte's fully managed services save you time, money, and effort."
 tags: [GoRules, OctaByte, deploy GoRules, managed GoRules, open-source rule engine, automated decision-making, managed open-source software, cost-effective deployment, SSL management, automatic backups, technical support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "GoRules"]
 cover:
   image: images/cover.png
   caption: "Deploy GoRules in Minutes with OctaByte.io"

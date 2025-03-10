@@ -4,7 +4,7 @@ title: "Deploy Prometheus in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Prometheus, the powerful open-source monitoring and alerting toolkit. Save time, reduce costs, and ensure seamless monitoring with OctaByte's fully managed services."
 tags: [Deploy Prometheus, Prometheus monitoring, OctaByte, managed Prometheus, open-source monitoring, automated backups, SSL management, cost-effective monitoring, Prometheus deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Prometheus"]
 cover:
   image: images/cover.png
   caption: "Deploy Prometheus in Minutes with OctaByte.io"

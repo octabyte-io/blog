@@ -4,7 +4,7 @@ title: "Deploy MeshCentral in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying MeshCentral effortless. Skip the complexities of setup and maintenance, and enjoy a fully managed, secure, and cost-effective remote management solution in minutes."
 tags: [MeshCentral, OctaByte, remote management, managed services, open-source software, IT management, secure deployment, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Network]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "MeshCentral"]
 cover:
   image: images/cover.png
   caption: "Deploy MeshCentral in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Mattermost Team Edition in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Mattermost Team Edition, a powerful open-source messaging platform. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Mattermost Team Edition, OctaByte, open-source messaging platform, managed Mattermost deployment, secure team communication, cost-effective collaboration tools, automated backups, SSL management, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Mattermost Team Edition"]
 cover:
   image: images/cover.png
   caption: "Deploy Mattermost Team Edition in Minutes with OctaByte.io"

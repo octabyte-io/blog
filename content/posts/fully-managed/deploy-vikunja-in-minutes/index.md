@@ -4,7 +4,7 @@ title: "Deploy Vikunja in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Vikunja, the open-source task management tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Vikunja deployment, OctaByte, open-source task management, managed Vikunja hosting, Vikunja benefits, OctaByte managed services, Vikunja setup, task management software, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Vikunja"]
 cover:
   image: images/cover.png
   caption: "Deploy Vikunja in Minutes with OctaByte.io"

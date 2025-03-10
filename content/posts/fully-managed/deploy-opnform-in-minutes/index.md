@@ -4,7 +4,7 @@ title: "Deploy OpnForm in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying OpnForm—a powerful open-source form builder—fast, easy, and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [OpnForm deployment, open-source form builder, managed open-source services, OctaByte, deploy OpnForm, managed hosting, automatic backups, SSL management, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "OpnForm"]
 cover:
   image: images/cover.png
   caption: "Deploy OpnForm in Minutes with OctaByte.io"

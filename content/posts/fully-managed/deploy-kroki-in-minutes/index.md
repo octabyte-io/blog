@@ -4,7 +4,7 @@ title: "Deploy Kroki in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Kroki, a powerful diagram-as-code tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Kroki deployment, diagram-as-code, managed open-source software, OctaByte, time-saving tools, cost-effective solutions, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Kroki"]
 cover:
   image: images/cover.png
   caption: "Deploy Kroki in Minutes with OctaByte.io"

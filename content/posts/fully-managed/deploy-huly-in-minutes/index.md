@@ -4,7 +4,7 @@ title: "Deploy Huly in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Huly, the powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Huly, Huly deployment, OctaByte, managed open-source software, Huly benefits, time-saving software deployment, cost-effective Huly hosting, automatic backups, SSL management, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Project Management", "Huly"]
 cover:
   image: images/cover.png
   caption: "Deploy Huly in Minutes with OctaByte.io"

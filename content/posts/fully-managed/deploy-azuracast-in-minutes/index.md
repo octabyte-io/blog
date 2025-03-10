@@ -4,7 +4,7 @@ title: "Deploy AzuraCast in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of AzuraCast, the open-source radio broadcasting software. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy AzuraCast, AzuraCast hosting, managed AzuraCast, OctaByte, open-source radio software, AzuraCast deployment, managed hosting services, AzuraCast benefits, OctaByte AzuraCast, radio broadcasting software]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "AzuraCast"]
 cover:
   image: images/cover.png
   caption: "Deploy AzuraCast in Minutes with OctaByte.io"

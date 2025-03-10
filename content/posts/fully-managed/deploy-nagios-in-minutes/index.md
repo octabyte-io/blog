@@ -4,7 +4,7 @@ title: "Deploy Nagios in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Nagios, a powerful open-source monitoring tool. Save time, reduce costs, and ensure seamless monitoring with OctaByte's fully managed services."
 tags: [Nagios deployment, OctaByte, managed Nagios services, open-source monitoring, IT infrastructure monitoring, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring, Infrastructure]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Infrastructure", "Nagios"]
 cover:
   image: images/cover.png
   caption: "Deploy Nagios in Minutes with OctaByte.io"

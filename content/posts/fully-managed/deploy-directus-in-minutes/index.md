@@ -4,7 +4,7 @@ title: "Deploy Directus in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Directus, an open-source headless CMS. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Deploy Directus, Directus hosting, managed Directus, OctaByte, headless CMS, open-source CMS, Directus deployment, managed open-source software, Directus benefits, Directus setup]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Directus"]
 cover:
   image: images/cover.png
   caption: "Deploy Directus in Minutes with OctaByte.io"

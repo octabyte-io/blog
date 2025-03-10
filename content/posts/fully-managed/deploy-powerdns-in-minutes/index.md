@@ -4,7 +4,7 @@ title: "Deploy PowerDNS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of PowerDNS, a powerful and flexible DNS server. Save time, reduce costs, and enjoy seamless DNS management with OctaByte's fully managed services."
 tags: [PowerDNS, DNS server, managed DNS services, OctaByte, deploy PowerDNS, DNS management, open-source DNS, managed hosting, DNS security, automated backups, SSL management, IT infrastructure, cost-effective DNS, DNS support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "PowerDNS"]
 cover:
   image: images/cover.png
   caption: "Deploy PowerDNS in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy MintHCM in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of MintHCM, a powerful open-source Human Capital Management (HCM) solution. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [MintHCM, open-source HCM, deploy MintHCM, OctaByte, managed open-source software, human capital management, cost-effective HCM, automated backups, SSL management, open-source software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Hcm]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Hcm", "MintHCM"]
 cover:
   image: images/cover.png
   caption: "Deploy MintHCM in Minutes with OctaByte.io"

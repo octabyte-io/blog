@@ -4,7 +4,7 @@ title: "Deploy Wekan in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Wekan, the open-source Kanban board, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Wekan, Wekan Kanban, OctaByte, managed Wekan hosting, open-source Kanban board, Wekan deployment, managed open-source software, Wekan benefits, OctaByte Wekan, Wekan hosting solution]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "Wekan"]
 cover:
   image: images/cover.png
   caption: "Deploy Wekan in Minutes with OctaByte.io"

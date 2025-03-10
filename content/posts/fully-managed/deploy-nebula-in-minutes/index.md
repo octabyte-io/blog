@@ -4,7 +4,7 @@ title: "Deploy Nebula in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Nebula—a scalable, open-source overlay network—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Nebula, Nebula overlay network, OctaByte, managed open-source software, secure network deployment, automatic SSL management, cost-effective IT solutions, managed IT services, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Development, Network, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "Dev Ops", "Nebula"]
 ShowToc: true
 TocOpen: true
 ---

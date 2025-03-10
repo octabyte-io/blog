@@ -4,7 +4,7 @@ title: "Deploy Hyperswitch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Hyperswitch, a powerful open-source payment orchestration platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Hyperswitch, OctaByte, payment orchestration, open-source software, managed services, deploy Hyperswitch, payment gateway, secure payments, automated backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Invoicing And Payments]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Invoicing And Payments", "Hyperswitch"]
 cover:
   image: images/cover.png
   caption: "Deploy Hyperswitch in Minutes with OctaByte.io"

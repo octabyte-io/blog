@@ -4,7 +4,7 @@ title: "Deploy NodeBB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying NodeBB—a modern, open-source forum software—effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy NodeBB, NodeBB hosting, managed NodeBB, open-source forum software, OctaByte, NodeBB deployment, managed hosting services, NodeBB setup, NodeBB benefits, NodeBB SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "NodeBB"]
 cover:
   image: images/cover.png
   caption: "Deploy NodeBB in Minutes with OctaByte.io"

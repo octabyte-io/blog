@@ -4,7 +4,7 @@ title: "Deploy Dittofeed in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Dittofeed, an open-source customer engagement platform. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Dittofeed deployment, OctaByte, managed open-source software, customer engagement platform, time-saving software deployment, cost-effective SaaS, automatic backups, SSL management, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "Dittofeed"]
 cover:
   image: images/cover.png
   caption: "Deploy Dittofeed in Minutes with OctaByte.io"

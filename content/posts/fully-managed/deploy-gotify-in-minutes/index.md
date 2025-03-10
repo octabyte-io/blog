@@ -4,7 +4,7 @@ title: "Deploy Gotify in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Gotify, a lightweight push notification server, effortless and hassle-free. Learn why Gotify is a must-have tool for real-time notifications and how OctaByte’s managed services save you time, money, and effort."
 tags: [Gotify, deploy Gotify, managed Gotify, OctaByte, push notification server, open-source software, managed services, real-time notifications, cost-effective deployment, SSL management, automatic backups]
-categories: [Fully managed, Open Source Hosting, Development, Network]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "Gotify"]
 cover:
   image: images/cover.png
   caption: "Deploy Gotify in Minutes with OctaByte.io"

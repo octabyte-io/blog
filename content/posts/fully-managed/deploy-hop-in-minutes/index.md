@@ -4,7 +4,7 @@ title: "Deploy Hop in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Hop, the open-source workflow automation tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Hop, Hop workflow automation, OctaByte, managed open-source software, workflow automation tools, Hop deployment, managed IT services, open-source software hosting, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Hop"]
 cover:
   image: images/cover.png
   caption: "Deploy Hop in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy K3S in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of K3S, a lightweight Kubernetes distribution, saving you time, effort, and resources. Learn why K3S is a game-changer for container orchestration and how OctaByte’s fully managed services make it easier than ever to get started."
 tags: [K3S deployment, Kubernetes, lightweight Kubernetes, managed K3S, OctaByte, container orchestration, managed Kubernetes services, K3S benefits, K3S hosting, Kubernetes made easy]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "K3S"]
 ShowToc: true
 TocOpen: true
 ---

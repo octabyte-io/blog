@@ -4,7 +4,7 @@ title: "Deploy OpenProject in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OpenProject, a powerful open-source project management tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [OpenProject deployment, managed OpenProject, OctaByte, open-source project management, managed open-source software, OpenProject hosting, OctaByte services, project management tools, automated backups, SSL management, IT support]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "OpenProject"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenProject in Minutes with OctaByte.io"

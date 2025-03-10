@@ -4,7 +4,7 @@ title: "Deploy PocketBase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying PocketBase effortless. Learn what PocketBase is, why it’s a game-changer for backend development, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [PocketBase, deploy PocketBase, managed PocketBase, OctaByte, open-source backend, managed open-source software, PocketBase hosting, backend as a service, managed IT services, secure PocketBase deployment]
-categories: [Fully managed, Open Source Hosting, Development, Backend As A Service]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Backend As A Service", "PocketBase"]
 cover:
   image: images/cover.png
   caption: "Deploy PocketBase in Minutes with OctaByte.io"

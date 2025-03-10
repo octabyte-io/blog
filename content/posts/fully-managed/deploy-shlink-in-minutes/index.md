@@ -4,7 +4,7 @@ title: "Deploy Shlink in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Shlink, the open-source URL shortener. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Shlink deployment, open-source URL shortener, managed Shlink hosting, OctaByte, Shlink benefits, URL shortener management, Shlink SSL, Shlink backups, Shlink support, cost-effective Shlink hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Shlink"]
 cover:
   image: images/cover.png
   caption: "Deploy Shlink in Minutes with OctaByte.io"

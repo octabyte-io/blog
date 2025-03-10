@@ -4,7 +4,7 @@ title: "Deploy Rocket.Chat in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Rocket.Chat effortless. Skip the technical hassle and enjoy a fully managed, secure, and cost-effective solution for your team communication needs."
 tags: [RocketChat deployment, managed RocketChat, OctaByte, open-source team communication, secure chat platform, cost-effective RocketChat, managed open-source software, RocketChat hosting, automated SSL, team collaboration tools]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Rocket.Chat"]
 cover:
   image: images/cover.png
   caption: "Deploy Rocket.Chat in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Lightdash in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Lightdash, an open-source business intelligence tool, with fully managed services. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Lightdash deployment, managed Lightdash hosting, open-source BI tools, OctaByte, Lightdash benefits, managed open-source software, business intelligence tools, Lightdash setup, automated backups, SSL management, cost-effective BI solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Business Intelligence]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Business Intelligence", "Lightdash"]
 cover:
   image: images/cover.png
   caption: "Deploy Lightdash in Minutes with OctaByte.io"

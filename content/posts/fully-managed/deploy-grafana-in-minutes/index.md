@@ -4,7 +4,7 @@ title: "Deploy Grafana in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Grafana deployment with fully managed services. Save time, reduce costs, and enjoy seamless monitoring with expert support, automatic backups, and SSL management—all in one place."
 tags: [Grafana deployment, managed Grafana services, OctaByte, open-source software hosting, Grafana monitoring, cost-effective Grafana, Grafana SSL management, Grafana backups, Grafana support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Grafana"]
 cover:
   image: images/cover.png
   caption: "Deploy Grafana in Minutes with OctaByte.io"

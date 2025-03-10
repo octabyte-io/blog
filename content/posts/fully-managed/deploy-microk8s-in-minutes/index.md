@@ -4,7 +4,7 @@ title: "Deploy Microk8s in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MicroK8s, a lightweight Kubernetes solution. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [MicroK8s deployment, Kubernetes managed services, OctaByte, lightweight Kubernetes, managed Kubernetes, open-source software deployment, MicroK8s benefits, Kubernetes automation, managed IT services, Kubernetes hosting]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Microk8s"]
 cover:
   image: images/cover.png
   caption: "Deploy Microk8s in Minutes with OctaByte.io"

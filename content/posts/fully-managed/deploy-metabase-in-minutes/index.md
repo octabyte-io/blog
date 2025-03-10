@@ -4,7 +4,7 @@ title: "Deploy Metabase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Metabase, a powerful open-source business intelligence tool. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [Deploy Metabase, Metabase hosting, managed Metabase, OctaByte, open-source BI tool, business intelligence, managed open-source software, Metabase deployment, automated backups, SSL management, cost-effective BI solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Business Intelligence]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Business Intelligence", "Metabase"]
 cover:
   image: images/cover.png
   caption: "Deploy Metabase in Minutes with OctaByte.io"

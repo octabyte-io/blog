@@ -4,7 +4,7 @@ title: "Deploy DocuSeal in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying DocuSeal—a powerful open-source document signing and management tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [DocuSeal deployment, open-source document signing, managed DocuSeal, OctaByte, document management software, automated backups, SSL management, cost-effective IT solutions, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "DocuSeal"]
 cover:
   image: images/cover.png
   caption: "Deploy DocuSeal in Minutes with OctaByte.io"

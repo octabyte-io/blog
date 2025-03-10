@@ -4,7 +4,7 @@ title: "Deploy Matomo in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Matomo, the powerful open-source analytics platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Matomo deployment, open-source analytics, OctaByte, managed Matomo hosting, Matomo benefits, Matomo setup, Matomo analytics, managed open-source software, Matomo SSL, Matomo backups]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Matomo"]
 cover:
   image: images/cover.png
   caption: "Deploy Matomo in Minutes with OctaByte.io"

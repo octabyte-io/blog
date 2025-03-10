@@ -4,7 +4,7 @@ title: "Deploy Kellnr in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Kellnr, a powerful open-source software. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Kellnr deployment, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective IT solutions, open-source software hosting, Kellnr benefits, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Kellnr"]
 cover:
   image: images/cover.png
   caption: "Deploy Kellnr in Minutes with OctaByte.io"

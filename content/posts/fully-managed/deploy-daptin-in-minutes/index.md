@@ -4,7 +4,7 @@ title: "Deploy Daptin in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Daptin, a powerful open-source headless CMS and API platform. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy Daptin, Daptin deployment, OctaByte, managed Daptin services, headless CMS, API platform, open-source software, managed hosting, automatic backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Daptin"]
 cover:
   image: images/cover.png
   caption: "Deploy Daptin in Minutes with OctaByte.io"

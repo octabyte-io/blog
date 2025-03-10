@@ -4,7 +4,7 @@ title: "Deploy Activepieces in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Activepieces, a powerful open-source automation tool. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Activepieces deployment, OctaByte, open-source automation, managed services, time-saving automation, cost-effective IT solutions, automated backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "Activepieces"]
 cover:
   image: images/cover.png
   caption: "Deploy Activepieces in Minutes with OctaByte.io"

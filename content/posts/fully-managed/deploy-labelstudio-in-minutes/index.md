@@ -4,7 +4,7 @@ title: "Deploy LabelStudio in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of LabelStudio, a powerful open-source data labeling tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [LabelStudio, deploy LabelStudio, open-source data labeling, OctaByte, managed LabelStudio, data annotation, AI/ML labeling, automated backups, SSL management, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "LabelStudio"]
 cover:
   image: images/cover.png
   caption: "Deploy LabelStudio in Minutes with OctaByte.io"

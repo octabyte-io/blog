@@ -4,7 +4,7 @@ title: "Deploy DevLake in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of DevLake, an open-source data lake for engineering metrics. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [DevLake, OctaByte, open-source data lake, engineering metrics, managed services, DevOps tools, data visualization, automated backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "DevLake"]
 cover:
   image: images/cover.png
   caption: "Deploy DevLake in Minutes with OctaByte.io"

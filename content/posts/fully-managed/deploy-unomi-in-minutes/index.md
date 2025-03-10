@@ -4,7 +4,7 @@ title: "Deploy Unomi in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Unomi, the powerful open-source customer data platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Unomi deployment, OctaByte, managed Unomi services, open-source customer data platform, Unomi hosting, managed open-source software, Unomi benefits, OctaByte Unomi, Unomi setup, Unomi management]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Unomi"]
 cover:
   image: images/cover.png
   caption: "Deploy Unomi in Minutes with OctaByte.io"

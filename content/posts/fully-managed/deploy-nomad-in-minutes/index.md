@@ -4,7 +4,7 @@ title: "Deploy Nomad in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of HashiCorp Nomad, a powerful workload orchestrator. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy Nomad, HashiCorp Nomad, OctaByte, managed Nomad services, workload orchestration, automated deployment, cost-effective Nomad, managed open-source software, Nomad hosting, OctaByte benefits]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Nomad"]
 cover:
   image: images/cover.png
   caption: "Deploy Nomad in Minutes with OctaByte.io"

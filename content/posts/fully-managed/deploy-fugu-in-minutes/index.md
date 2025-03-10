@@ -4,7 +4,7 @@ title: "Deploy Fugu in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Fugu, the powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Fugu, Fugu open-source, OctaByte, managed Fugu deployment, open-source software hosting, Fugu benefits, managed IT services, automatic backups, SSL management, cost-effective software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Fugu"]
 cover:
   image: images/cover.png
   caption: "Deploy Fugu in Minutes with OctaByte.io"

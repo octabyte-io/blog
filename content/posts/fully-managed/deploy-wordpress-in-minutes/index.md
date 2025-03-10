@@ -4,7 +4,7 @@ title: "Deploy Wordpress in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying WordPress effortless. Skip the technical hassles and enjoy a fully managed WordPress experience with automatic backups, SSL management, and expert support—all in minutes!"
 tags: [Deploy WordPress, Managed WordPress Hosting, OctaByte, WordPress Deployment, Managed Open-Source Software, Automatic Backups, SSL Management, WordPress Support]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Wordpress"]
 cover:
   image: images/cover.png
   caption: "Deploy Wordpress in Minutes with OctaByte.io"

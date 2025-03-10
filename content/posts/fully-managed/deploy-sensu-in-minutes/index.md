@@ -4,7 +4,7 @@ title: "Deploy Sensu in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Sensu, a powerful open-source monitoring tool. Learn why Sensu is essential for modern infrastructure and how OctaByte's fully managed services save you time, effort, and costs."
 tags: [Sensu deployment, managed Sensu services, OctaByte, open-source monitoring, infrastructure monitoring, managed IT services, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Sensu"]
 cover:
   image: images/cover.png
   caption: "Deploy Sensu in Minutes with OctaByte.io"

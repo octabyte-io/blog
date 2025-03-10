@@ -4,7 +4,7 @@ title: "Deploy Zitadel in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Zitadel, the open-source identity and access management solution. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Zitadel deployment, managed Zitadel, OctaByte, open-source identity management, Zitadel hosting, managed open-source software, Zitadel benefits, secure identity management, OctaByte Zitadel, cost-effective Zitadel]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "Zitadel"]
 cover:
   image: images/cover.png
   caption: "Deploy Zitadel in Minutes with OctaByte.io"

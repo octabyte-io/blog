@@ -4,7 +4,7 @@ title: "Deploy Pleroma in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Pleroma, a lightweight and customizable federated social networking platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Pleroma deployment, OctaByte, managed Pleroma hosting, federated social networking, open-source software hosting, Pleroma benefits, managed IT services, automatic backups, SSL management, cost-effective hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "Pleroma"]
 cover:
   image: images/cover.png
   caption: "Deploy Pleroma in Minutes with OctaByte.io"

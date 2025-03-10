@@ -4,7 +4,7 @@ title: "Deploy ArchiveBox in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying ArchiveBox effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [ArchiveBox deployment, managed ArchiveBox, OctaByte, open-source software hosting, automatic backups, SSL management, cost-effective hosting, ArchiveBox benefits, managed IT services]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "ArchiveBox"]
 cover:
   image: images/cover.png
   caption: "Deploy ArchiveBox in Minutes with OctaByte.io"

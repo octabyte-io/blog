@@ -4,7 +4,7 @@ title: "Deploy SurrealDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of SurrealDB, a cutting-edge database solution. Learn why SurrealDB is a game-changer and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [SurrealDB, OctaByte, managed SurrealDB, deploy SurrealDB, open-source database, managed database services, SurrealDB deployment, OctaByte benefits, database management, cloud database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "SurrealDB"]
 cover:
   image: images/cover.png
   caption: "Deploy SurrealDB in Minutes with OctaByte.io"

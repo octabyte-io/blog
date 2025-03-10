@@ -4,7 +4,7 @@ title: "Deploy ownCloud in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing ownCloud effortless. Learn what ownCloud is, why it’s a game-changer for file storage and collaboration, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [deploy ownCloud, ownCloud hosting, managed ownCloud services, OctaByte, file storage solution, secure file sharing, open-source software hosting, cloud storage management, ownCloud deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "ownCloud"]
 cover:
   image: images/cover.png
   caption: "Deploy ownCloud in Minutes with OctaByte.io"

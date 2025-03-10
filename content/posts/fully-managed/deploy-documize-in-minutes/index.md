@@ -4,7 +4,7 @@ title: "Deploy Documize in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Documize, a powerful open-source documentation platform, effortless. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Deploy Documize, Documize hosting, managed Documize, open-source documentation, OctaByte, managed open-source software, Documize deployment, secure documentation platform, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Documize"]
 cover:
   image: images/cover.png
   caption: "Deploy Documize in Minutes with OctaByte.io"

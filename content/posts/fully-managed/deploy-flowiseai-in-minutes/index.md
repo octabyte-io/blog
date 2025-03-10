@@ -4,7 +4,7 @@ title: "Deploy FlowiseAI in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying FlowiseAI effortless. Learn what FlowiseAI is, its benefits, and why OctaByte.io is the best platform to deploy and manage it seamlessly."
 tags: [FlowiseAI, deploy FlowiseAI, OctaByte, managed open-source software, AI workflow automation, no-code AI tools, managed AI deployment, FlowiseAI benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "FlowiseAI"]
 cover:
   image: images/cover.png
   caption: "Deploy FlowiseAI in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Lemmy in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Lemmy, the federated link aggregator, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Lemmy, Lemmy hosting, managed Lemmy, OctaByte, federated link aggregator, open-source software hosting, managed open-source services, Lemmy deployment, cost-effective Lemmy hosting, secure Lemmy hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Lemmy"]
 cover:
   image: images/cover.png
   caption: "Deploy Lemmy in Minutes with OctaByte.io"

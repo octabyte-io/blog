@@ -4,7 +4,7 @@ title: "Deploy Odoo ERP & CRM in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Odoo ERP & CRM, saving you time, money, and effort. Learn why Odoo is a game-changer for businesses and how OctaByte’s fully managed services make it easier than ever to get started."
 tags: [Odoo ERP, Odoo CRM, deploy Odoo, managed Odoo services, OctaByte, Odoo deployment, Odoo benefits, Odoo for businesses, Odoo managed hosting, Odoo automation]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Odoo ERP & CRM"]
 cover:
   image: images/cover.png
   caption: "Deploy Odoo ERP & CRM in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy FrappeHR in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of FrappeHR, a powerful open-source HR and payroll software. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [FrappeHR, OctaByte, deploy FrappeHR, managed open-source software, HR and payroll software, cost-effective HR solutions, automated backups, SSL management, open-source software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp, Hrms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Hrms", "FrappeHR"]
 cover:
   image: images/cover.png
   caption: "Deploy FrappeHR in Minutes with OctaByte.io"

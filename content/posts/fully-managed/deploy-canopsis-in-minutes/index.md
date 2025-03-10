@@ -4,7 +4,7 @@ title: "Deploy Canopsis in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Canopsis, a powerful open-source event management and monitoring tool. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy Canopsis, Canopsis deployment, managed Canopsis services, OctaByte, open-source event management, automated monitoring, managed IT services, cost-effective Canopsis, Canopsis benefits, OctaByte Canopsis]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Canopsis"]
 cover:
   image: images/cover.png
   caption: "Deploy Canopsis in Minutes with OctaByte.io"

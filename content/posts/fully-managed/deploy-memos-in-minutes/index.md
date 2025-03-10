@@ -4,7 +4,7 @@ title: "Deploy Memos in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Memos—a lightweight, open-source note-taking app—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Memos, OctaByte, open-source note-taking app, managed Memos hosting, automatic backups, SSL management, cost-effective software deployment, time-saving software solutions, open-source software management]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Memos"]
 cover:
   image: images/cover.png
   caption: "Deploy Memos in Minutes with OctaByte.io"

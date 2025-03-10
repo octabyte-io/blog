@@ -4,7 +4,7 @@ title: "Deploy Flagsmith in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Flagsmith, the open-source feature flag and remote configuration service. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Flagsmith deployment, open-source feature flags, managed Flagsmith service, OctaByte, feature flag management, remote configuration, DevOps tools, managed open-source software, cost-effective DevOps solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Flagsmith"]
 cover:
   image: images/cover.png
   caption: "Deploy Flagsmith in Minutes with OctaByte.io"

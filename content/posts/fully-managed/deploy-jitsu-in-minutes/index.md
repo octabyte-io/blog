@@ -4,7 +4,7 @@ title: "Deploy Jitsu in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Jitsu, the open-source data collection and event tracking platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Jitsu, Jitsu deployment, OctaByte, open-source data collection, event tracking, managed Jitsu hosting, automatic backups, SSL management, cost-effective Jitsu, Jitsu support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Jitsu"]
 cover:
   image: images/cover.png
   caption: "Deploy Jitsu in Minutes with OctaByte.io"

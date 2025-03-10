@@ -4,7 +4,7 @@ title: "Deploy HumHub in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of HumHub, a powerful open-source social networking and collaboration platform. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [HumHub deployment, OctaByte, managed HumHub hosting, open-source social networking, collaboration platform, managed open-source software, HumHub benefits, OctaByte services, HumHub setup, secure HumHub hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Forum Community", "HumHub"]
 cover:
   image: images/cover.png
   caption: "Deploy HumHub in Minutes with OctaByte.io"

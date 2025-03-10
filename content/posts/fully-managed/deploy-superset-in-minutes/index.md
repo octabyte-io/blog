@@ -4,7 +4,7 @@ title: "Deploy Superset in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Apache Superset, a powerful open-source data visualization tool. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all with just a few clicks."
 tags: [Deploy Superset, Apache Superset, Superset hosting, managed Superset, OctaByte, open-source data visualization, Superset deployment, managed open-source software, Superset benefits, Superset SSL, Superset backups, Superset support]
-categories: [Fully managed, Open Source Hosting, Applications, Business Intelligence]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Business Intelligence", "Superset"]
 cover:
   image: images/cover.png
   caption: "Deploy Superset in Minutes with OctaByte.io"

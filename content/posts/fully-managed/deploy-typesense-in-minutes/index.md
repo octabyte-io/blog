@@ -4,7 +4,7 @@ title: "Deploy Typesense in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Typesense, a powerful open-source search engine. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Typesense deployment, OctaByte, managed Typesense, open-source search engine, Typesense hosting, Typesense managed services, Typesense benefits, Typesense setup, Typesense integration, OctaByte Typesense]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "Typesense"]
 cover:
   image: images/cover.png
   caption: "Deploy Typesense in Minutes with OctaByte.io"

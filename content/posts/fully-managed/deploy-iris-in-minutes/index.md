@@ -4,7 +4,7 @@ title: "Deploy IRIS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of IRIS, a powerful open-source software. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Deploy IRIS, IRIS open-source, OctaByte, managed IRIS services, IRIS deployment, open-source software management, IRIS benefits, OctaByte IRIS, IRIS hosting, IRIS support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "IRIS"]
 cover:
   image: images/cover.png
   caption: "Deploy IRIS in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy OpenBlocks in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying OpenBlocks effortless. Learn what OpenBlocks is, why it’s a game-changer, and how OctaByte’s fully managed services save you time, money, and effort while ensuring security and reliability."
 tags: [OpenBlocks deployment, managed OpenBlocks hosting, OctaByte, open-source software hosting, automated backups, SSL management, cost-effective software deployment, OpenBlocks benefits, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "OpenBlocks"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenBlocks in Minutes with OctaByte.io"

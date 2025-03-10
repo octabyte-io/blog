@@ -4,7 +4,7 @@ title: "Deploy MySQL in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies MySQL deployment and management. Save time, reduce costs, and enjoy seamless database management with our fully managed services. Deploy MySQL in minutes and focus on what matters most—your business."
 tags: [MySQL deployment, managed MySQL services, OctaByte, database management, MySQL hosting, managed open-source software, MySQL backup, SSL management, cost-effective MySQL, MySQL support]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "MySQL"]
 cover:
   image: images/cover.png
   caption: "Deploy MySQL in Minutes with OctaByte.io"

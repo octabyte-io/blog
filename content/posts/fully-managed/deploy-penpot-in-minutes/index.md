@@ -4,7 +4,7 @@ title: "Deploy Penpot in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Penpot, the open-source design and prototyping tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Penpot deployment, open-source design tool, managed Penpot hosting, OctaByte, Penpot benefits, Penpot setup, managed open-source software, Penpot for teams, Penpot cloud hosting, Penpot managed services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Penpot"]
 cover:
   image: images/cover.png
   caption: "Deploy Penpot in Minutes with OctaByte.io"

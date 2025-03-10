@@ -4,7 +4,7 @@ title: "Deploy ColumnStore in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ColumnStore, a powerful open-source database solution. Save time, reduce costs, and enjoy seamless scalability with our fully managed services."
 tags: [ColumnStore, open-source database, managed database services, OctaByte, deploy ColumnStore, database management, scalable database, cost-effective database, automatic backups, SSL management, database support]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "ColumnStore"]
 cover:
   image: images/cover.png
   caption: "Deploy ColumnStore in Minutes with OctaByte.io"

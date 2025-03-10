@@ -4,7 +4,7 @@ title: "Deploy Logto in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Logto, an open-source authentication and user management solution. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Logto deployment, managed Logto hosting, open-source authentication, user management, OctaByte, managed open-source services, secure authentication, SSL management, automatic backups, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "Logto"]
 cover:
   image: images/cover.png
   caption: "Deploy Logto in Minutes with OctaByte.io"

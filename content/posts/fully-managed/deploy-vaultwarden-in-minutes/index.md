@@ -4,7 +4,7 @@ title: "Deploy Vaultwarden in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Vaultwarden, a secure and lightweight password manager, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Vaultwarden, password manager, deploy Vaultwarden, managed Vaultwarden, OctaByte, open-source software, secure password management, managed IT services, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Vaultwarden"]
 cover:
   image: images/cover.png
   caption: "Deploy Vaultwarden in Minutes with OctaByte.io"

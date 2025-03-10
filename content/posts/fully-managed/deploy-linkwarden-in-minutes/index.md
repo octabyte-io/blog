@@ -4,7 +4,7 @@ title: "Deploy Linkwarden in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Linkwarden, a powerful open-source link management tool, effortless. Save time, reduce costs, and enjoy seamless SSL, backups, and expert support—all in one place."
 tags: [Linkwarden, deploy Linkwarden, open-source link management, OctaByte, managed open-source software, time-saving deployment, cost-effective software hosting, SSL management, automatic backups, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Linkwarden"]
 cover:
   image: images/cover.png
   caption: "Deploy Linkwarden in Minutes with OctaByte.io"

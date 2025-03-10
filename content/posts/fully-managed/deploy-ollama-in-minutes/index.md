@@ -4,7 +4,7 @@ title: "Deploy Ollama in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Ollama, an open-source software, with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Deploy Ollama, Ollama deployment, OctaByte, managed open-source software, time-saving deployment, cost-effective IT solutions, automatic backups, SSL management, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "Ollama"]
 cover:
   image: images/cover.png
   caption: "Deploy Ollama in Minutes with OctaByte.io"

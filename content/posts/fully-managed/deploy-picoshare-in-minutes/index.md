@@ -4,7 +4,7 @@ title: "Deploy Picoshare in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Picoshare—a lightweight, open-source file-sharing solution—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Picoshare deployment, OctaByte, managed open-source software, file-sharing solution, automatic backups, SSL management, cost-effective IT solutions, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Picoshare"]
 cover:
   image: images/cover.png
   caption: "Deploy Picoshare in Minutes with OctaByte.io"

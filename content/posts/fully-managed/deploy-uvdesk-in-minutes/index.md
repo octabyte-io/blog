@@ -4,7 +4,7 @@ title: "Deploy UVdesk in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of UVdesk, a powerful open-source helpdesk solution. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [UVdesk, deploy UVdesk, open-source helpdesk, managed UVdesk, OctaByte, helpdesk software, UVdesk deployment, managed open-source software, IT support solutions, automated backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "UVdesk"]
 cover:
   image: images/cover.png
   caption: "Deploy UVdesk in Minutes with OctaByte.io"

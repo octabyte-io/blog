@@ -4,7 +4,7 @@ title: "Deploy Docspell in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Docspell, a powerful open-source document management system, effortless. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Docspell, deploy Docspell, open-source document management, OctaByte, managed Docspell, document management system, automatic backups, SSL management, open-source software hosting, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "Docspell"]
 cover:
   image: images/cover.png
   caption: "Deploy Docspell in Minutes with OctaByte.io"

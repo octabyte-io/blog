@@ -4,7 +4,7 @@ title: "Deploy Shopware in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Shopware, a powerful open-source e-commerce platform. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Shopware deployment, managed Shopware hosting, OctaByte, open-source e-commerce, Shopware benefits, managed open-source software, e-commerce platform, Shopware hosting solutions]
-categories: [Fully managed, Open Source Hosting, Applications, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "E Commerce", "Shopware"]
 cover:
   image: images/cover.png
   caption: "Deploy Shopware in Minutes with OctaByte.io"

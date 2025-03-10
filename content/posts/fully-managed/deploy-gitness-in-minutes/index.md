@@ -4,7 +4,7 @@ title: "Deploy Gitness in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Gitness, a powerful open-source software. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Gitness deployment, OctaByte, managed open-source software, Gitness hosting, automatic backups, SSL management, cost-effective IT solutions, open-source software support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gitness"]
 cover:
   image: images/cover.png
   caption: "Deploy Gitness in Minutes with OctaByte.io"

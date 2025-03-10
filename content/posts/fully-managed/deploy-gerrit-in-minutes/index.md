@@ -4,7 +4,7 @@ title: "Deploy Gerrit in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Gerrit, a powerful code review and collaboration tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Gerrit deployment, managed Gerrit hosting, OctaByte, code review tool, open-source software hosting, managed IT services, Gerrit setup, automated backups, SSL management, cost-effective Gerrit hosting]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gerrit"]
 cover:
   image: images/cover.png
   caption: "Deploy Gerrit in Minutes with OctaByte.io"

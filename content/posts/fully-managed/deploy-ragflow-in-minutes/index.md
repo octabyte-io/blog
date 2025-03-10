@@ -4,7 +4,7 @@ title: "Deploy Ragflow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Ragflow effortless. Learn what Ragflow is, why it’s a game-changer, and how OctaByte’s fully managed services save you time, money, and effort while ensuring seamless deployment and maintenance."
 tags: [Ragflow, deploy Ragflow, managed Ragflow, open-source software deployment, OctaByte, managed open-source services, Ragflow benefits, automated backups, SSL management, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Ragflow"]
 cover:
   image: images/cover.png
   caption: "Deploy Ragflow in Minutes with OctaByte.io"

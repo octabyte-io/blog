@@ -4,7 +4,7 @@ title: "Deploy Couchbase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Couchbase deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless performance. Learn why Couchbase is a game-changer for modern applications and how OctaByte makes it effortless to deploy and manage."
 tags: [Couchbase deployment, managed Couchbase, OctaByte, NoSQL database, open-source software, managed services, Couchbase benefits, cloud database, automated backups, SSL management, cost-effective database solution]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Couchbase"]
 cover:
   image: images/cover.png
   caption: "Deploy Couchbase in Minutes with OctaByte.io"

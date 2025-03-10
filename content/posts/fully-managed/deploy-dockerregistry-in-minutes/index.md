@@ -4,7 +4,7 @@ title: "Deploy DockerRegistry in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies DockerRegistry deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless SSL management, automatic backups, and expert support."
 tags: [DockerRegistry, DockerRegistry deployment, managed DockerRegistry, OctaByte, DockerRegistry benefits, DockerRegistry hosting, managed open-source software, DockerRegistry SSL, DockerRegistry backups, DockerRegistry support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "DockerRegistry"]
 ShowToc: true
 TocOpen: true
 ---

@@ -4,7 +4,7 @@ title: "Deploy OpenLDAP in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OpenLDAP, a powerful open-source directory service. Learn why OpenLDAP is essential for centralized user management and how OctaByte’s fully managed services save you time, effort, and costs."
 tags: [OpenLDAP deployment, managed OpenLDAP services, OctaByte, open-source directory service, centralized user management, managed IT services, OpenLDAP benefits, secure LDAP deployment, automated backups, SSL management, IT infrastructure solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "OpenLDAP"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenLDAP in Minutes with OctaByte.io"

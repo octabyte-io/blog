@@ -4,7 +4,7 @@ title: "Deploy FocalBoard in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying FocalBoard, an open-source project management tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [FocalBoard, OctaByte, open-source project management, deploy FocalBoard, managed open-source software, automatic backups, SSL management, cost-effective software deployment, time-saving software solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "FocalBoard"]
 cover:
   image: images/cover.png
   caption: "Deploy FocalBoard in Minutes with OctaByte.io"

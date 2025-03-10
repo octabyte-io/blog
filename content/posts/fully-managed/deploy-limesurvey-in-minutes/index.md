@@ -4,7 +4,7 @@ title: "Deploy LimeSurvey in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying LimeSurvey effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [LimeSurvey deployment, managed LimeSurvey, OctaByte, open-source survey software, LimeSurvey hosting, automated backups, SSL management, cost-effective survey tools]
-categories: [Fully managed, Open Source Hosting, Applications, Product Feedback]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Product Feedback", "LimeSurvey"]
 cover:
   image: images/cover.png
   caption: "Deploy LimeSurvey in Minutes with OctaByte.io"

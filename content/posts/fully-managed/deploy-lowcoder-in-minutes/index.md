@@ -4,7 +4,7 @@ title: "Deploy Lowcoder in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Lowcoder, a powerful open-source low-code platform, enabling you to build applications faster and more efficiently. Learn why deploying Lowcoder with OctaByte is the smart choice for businesses seeking time savings, cost-effectiveness, and expert support."
 tags: [Lowcoder deployment, Lowcoder hosting, OctaByte, low-code platform, managed open-source software, time-saving software deployment, cost-effective IT solutions, automated backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Lowcoder"]
 cover:
   image: images/cover.png
   caption: "Deploy Lowcoder in Minutes with OctaByte.io"

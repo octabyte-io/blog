@@ -4,7 +4,7 @@ title: "Deploy Authelia in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Authelia, a powerful open-source authentication and authorization server. Learn why Authelia is essential for securing your applications and how OctaByte’s fully managed services save you time, effort, and costs."
 tags: [Authelia deployment, managed Authelia, open-source authentication, secure access management, OctaByte, Authelia benefits, managed IT services, open-source software hosting, SSL management, automatic backups]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "Authelia"]
 cover:
   image: images/cover.png
   caption: "Deploy Authelia in Minutes with OctaByte.io"

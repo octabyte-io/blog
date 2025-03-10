@@ -4,7 +4,7 @@ title: "Deploy FreeScout in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of FreeScout, a powerful open-source helpdesk software. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [FreeScout deployment, managed FreeScout hosting, open-source helpdesk software, OctaByte, FreeScout benefits, managed IT services, FreeScout setup, affordable helpdesk solution]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "FreeScout"]
 cover:
   image: images/cover.png
   caption: "Deploy FreeScout in Minutes with OctaByte.io"

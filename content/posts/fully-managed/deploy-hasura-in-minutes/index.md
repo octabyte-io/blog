@@ -4,7 +4,7 @@ title: "Deploy Hasura in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Hasura, a powerful GraphQL engine. Save time, reduce costs, and enjoy seamless automation with our fully managed services."
 tags: [Deploy Hasura, Managed Hasura, Hasura GraphQL, OctaByte, Open Source Software Management, GraphQL Engine, Hasura Deployment, Managed Services, Cloud Deployment, Automated Backups, SSL Management]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Hasura"]
 cover:
   image: images/cover.png
   caption: "Deploy Hasura in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Solr in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Solr deployment and management. Learn what Solr is, why it’s essential for search functionality, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Deploy Solr, Solr hosting, managed Solr services, OctaByte, Solr deployment, open-source search platform, Solr benefits, managed IT services, Solr backup, SSL management, Solr support]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "Solr"]
 cover:
   image: images/cover.png
   caption: "Deploy Solr in Minutes with OctaByte.io"

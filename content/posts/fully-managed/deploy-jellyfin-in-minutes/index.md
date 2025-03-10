@@ -4,7 +4,7 @@ title: "Deploy Jellyfin in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Jellyfin—a powerful, open-source media server—effortless. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Jellyfin deployment, OctaByte, managed Jellyfin hosting, open-source media server, Jellyfin setup, managed open-source software, Jellyfin benefits, OctaByte services, media server hosting, Jellyfin management]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Jellyfin"]
 cover:
   image: images/cover.png
   caption: "Deploy Jellyfin in Minutes with OctaByte.io"

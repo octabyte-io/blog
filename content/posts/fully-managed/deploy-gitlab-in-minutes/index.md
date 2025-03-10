@@ -4,7 +4,7 @@ title: "Deploy Gitlab in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies GitLab deployment with fully managed services. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [GitLab deployment, managed GitLab services, OctaByte, open-source software hosting, GitLab hosting, automated backups, SSL management, cost-effective GitLab, GitLab support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Dev Ops", "Gitlab"]
 cover:
   image: images/cover.png
   caption: "Deploy Gitlab in Minutes with OctaByte.io"

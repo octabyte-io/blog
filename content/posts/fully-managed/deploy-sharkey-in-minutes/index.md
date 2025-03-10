@@ -4,7 +4,7 @@ title: "Deploy Sharkey in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Sharkey, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Sharkey, Sharkey open-source, OctaByte, managed open-source services, automatic backups, SSL management, cost-effective software deployment, Sharkey benefits, OctaByte Sharkey deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "Sharkey"]
 cover:
   image: images/cover.png
   caption: "Deploy Sharkey in Minutes with OctaByte.io"

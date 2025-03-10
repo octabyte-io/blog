@@ -4,7 +4,7 @@ title: "Deploy Typebot in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Typebot, a powerful open-source chatbot builder, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Typebot deployment, open-source chatbot builder, managed Typebot hosting, OctaByte, deploy Typebot, chatbot hosting, managed open-source software, Typebot benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Customer Support", "Typebot"]
 cover:
   image: images/cover.png
   caption: "Deploy Typebot in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Parse in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Parse, the open-source backend framework. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Deploy Parse, Parse backend, Parse deployment, OctaByte, managed Parse services, open-source backend, Parse hosting, Parse management, Parse SSL, Parse backups, Parse support]
-categories: [Fully managed, Open Source Hosting, Development, Backend As A Service]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Backend As A Service", "Parse"]
 cover:
   image: images/cover.png
   caption: "Deploy Parse in Minutes with OctaByte.io"

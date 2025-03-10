@@ -4,7 +4,7 @@ title: "Deploy Papercups in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Papercups—a powerful open-source live chat and customer support tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [deploy Papercups, OctaByte, open-source live chat, customer support tool, managed open-source software, automatic backups, SSL management, cost-effective software deployment, Papercups deployment, OctaByte benefits]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Customer Support", "Papercups"]
 cover:
   image: images/cover.png
   caption: "Deploy Papercups in Minutes with OctaByte.io"

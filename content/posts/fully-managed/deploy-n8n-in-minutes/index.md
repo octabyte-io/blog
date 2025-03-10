@@ -4,7 +4,7 @@ title: "Deploy N8N in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing N8N—a powerful workflow automation tool—effortless. Save time, reduce costs, and enjoy seamless automation with our fully managed services."
 tags: [N8N deployment, workflow automation, managed N8N hosting, OctaByte, open-source automation, no-code automation, managed IT services, N8N hosting, automated workflows, OctaByte N8N]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "N8N"]
 cover:
   image: images/cover.png
   caption: "Deploy N8N in Minutes with OctaByte.io"

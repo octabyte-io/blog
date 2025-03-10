@@ -4,7 +4,7 @@ title: "Deploy M3DB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of M3DB, a distributed time-series database. Learn why M3DB is a game-changer for handling large-scale time-series data and how OctaByte's fully managed services save you time, effort, and costs."
 tags: [M3DB deployment, managed M3DB services, time-series database, OctaByte, deploy M3DB, managed open-source software, M3DB benefits, scalable time-series data, automated backups, SSL management, cost-effective M3DB]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "M3DB"]
 cover:
   image: images/cover.png
   caption: "Deploy M3DB in Minutes with OctaByte.io"

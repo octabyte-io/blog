@@ -4,7 +4,7 @@ title: "Deploy InvoiceNinja in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying InvoiceNinja effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support. Start invoicing smarter today!"
 tags: [InvoiceNinja, OctaByte, deploy InvoiceNinja, managed open-source software, automated invoicing, time-saving solutions, cost-effective software deployment, SSL management, automatic backups, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp, Invoicing And Payments]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Invoicing And Payments", "InvoiceNinja"]
 cover:
   image: images/cover.png
   caption: "Deploy InvoiceNinja in Minutes with OctaByte.io"

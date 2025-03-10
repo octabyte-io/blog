@@ -4,7 +4,7 @@ title: "Deploy Mapzy in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Mapzy, a powerful open-source mapping and geolocation software. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Mapzy deployment, OctaByte, managed open-source software, geolocation software, cost-effective mapping solutions, automated backups, SSL management, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Mapzy"]
 cover:
   image: images/cover.png
   caption: "Deploy Mapzy in Minutes with OctaByte.io"

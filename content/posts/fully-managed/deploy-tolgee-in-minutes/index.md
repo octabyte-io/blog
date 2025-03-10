@@ -4,7 +4,7 @@ title: "Deploy Tolgee in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Tolgee, an open-source localization platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Tolgee deployment, open-source localization, OctaByte, managed Tolgee services, localization platform, automated backups, SSL management, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Tolgee"]
 cover:
   image: images/cover.png
   caption: "Deploy Tolgee in Minutes with OctaByte.io"

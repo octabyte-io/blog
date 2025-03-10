@@ -4,7 +4,7 @@ title: "Deploy Immich in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Immich, a powerful self-hosted photo and video backup solution, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Immich, self-hosted photo backup, video backup, OctaByte, managed open-source software, deploy Immich, photo management, video management, automatic backups, SSL management, managed hosting, open-source solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "Immich"]
 cover:
   image: images/cover.png
   caption: "Deploy Immich in Minutes with OctaByte.io"

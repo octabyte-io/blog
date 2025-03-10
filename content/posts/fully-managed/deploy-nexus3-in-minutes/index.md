@@ -4,7 +4,7 @@ title: "Deploy Nexus3 in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Nexus Repository Manager 3 (Nexus3), a powerful tool for managing software artifacts. Learn why Nexus3 is essential for DevOps teams and how OctaByte.io saves you time, reduces costs, and ensures seamless management."
 tags: [Nexus3 deployment, Nexus Repository Manager, OctaByte, managed Nexus3, DevOps tools, artifact management, open-source software hosting, automated backups, SSL management, cost-effective DevOps solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Nexus3"]
 ShowToc: true
 TocOpen: true
 ---

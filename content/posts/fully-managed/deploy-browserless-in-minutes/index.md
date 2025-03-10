@@ -4,7 +4,7 @@ title: "Deploy Browserless in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Browserless, a powerful headless browser automation tool. Learn why Browserless is essential for modern web scraping, testing, and automation, and how OctaByte.io makes it effortless to deploy and manage with fully managed services."
 tags: [Browserless deployment, headless browser automation, web scraping, automated testing, managed Browserless, OctaByte, open-source software, managed services, Browserless benefits, deploy Browserless]
-categories: [Fully managed, Open Source Hosting, Development, Network, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "Nocode Lowcode", "Browserless"]
 cover:
   image: images/cover.png
   caption: "Deploy Browserless in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy SerpBear in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying SerpBear, a powerful SEO rank tracking tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [SerpBear, OctaByte, SEO rank tracking, deploy SerpBear, managed open-source software, automatic backups, SSL management, cost-effective SEO tools, time-saving SEO solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "SerpBear"]
 cover:
   image: images/cover.png
   caption: "Deploy SerpBear in Minutes with OctaByte.io"

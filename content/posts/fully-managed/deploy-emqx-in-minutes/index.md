@@ -4,7 +4,7 @@ title: "Deploy EMQX in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of EMQX, the world’s most scalable MQTT broker, with fully managed services. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support."
 tags: [EMQX deployment, managed EMQX services, OctaByte, MQTT broker, scalable IoT messaging, managed open-source software, automatic SSL, cost-effective EMQX, time-saving deployment, expert support for EMQX]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "EMQX"]
 cover:
   image: images/cover.png
   caption: "Deploy EMQX in Minutes with OctaByte.io"

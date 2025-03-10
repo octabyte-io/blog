@@ -4,7 +4,7 @@ title: "Deploy Langflow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Langflow—a powerful open-source tool for building and managing language workflows—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Langflow deployment, OctaByte, managed open-source software, language workflow tools, automatic backups, SSL management, cost-effective software deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Langflow"]
 cover:
   image: images/cover.png
   caption: "Deploy Langflow in Minutes with OctaByte.io"

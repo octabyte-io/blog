@@ -4,7 +4,7 @@ title: "Deploy Element in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Element, a secure and decentralized messaging platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Element, Element messaging, OctaByte, managed open-source software, secure messaging, decentralized communication, managed hosting, automatic backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Element"]
 cover:
   image: images/cover.png
   caption: "Deploy Element in Minutes with OctaByte.io"

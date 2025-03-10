@@ -4,7 +4,7 @@ title: "Deploy ImmuDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying ImmuDB, the immutable database, effortless. Learn about ImmuDB's benefits and why OctaByte is the ideal platform for seamless, secure, and cost-effective deployment."
 tags: [ImmuDB, deploy ImmuDB, OctaByte, immutable database, managed database services, secure database deployment, automated backups, SSL management, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "ImmuDB"]
 cover:
   image: images/cover.png
   caption: "Deploy ImmuDB in Minutes with OctaByte.io"

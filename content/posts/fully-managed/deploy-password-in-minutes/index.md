@@ -4,7 +4,7 @@ title: "Deploy Password Pusher in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Password Pusher—a secure and efficient password-sharing tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Password Pusher, deploy Password Pusher, OctaByte, managed open-source software, secure password sharing, automatic backups, SSL management, cost-effective IT solutions, open-source deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Password Pusher"]
 cover:
   image: images/cover.png
   caption: "Deploy Password Pusher in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Attendize in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Attendize, a powerful open-source event management software, quick and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Attendize, Attendize event management, OctaByte, managed open-source software, event management software, Attendize hosting, automatic backups, SSL management, cost-effective event management, Attendize deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Attendize"]
 cover:
   image: images/cover.png
   caption: "Deploy Attendize in Minutes with OctaByte.io"

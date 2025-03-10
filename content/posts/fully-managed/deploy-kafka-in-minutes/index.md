@@ -4,7 +4,7 @@ title: "Deploy Kafka in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Kafka deployment and management. Learn what Kafka is, why it’s essential for modern data pipelines, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Deploy Kafka, Kafka deployment, managed Kafka services, OctaByte, Kafka benefits, Kafka for data pipelines, managed open-source software, Kafka hosting, Kafka setup, Kafka management]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "Kafka"]
 cover:
   image: images/cover.png
   caption: "Deploy Kafka in Minutes with OctaByte.io"

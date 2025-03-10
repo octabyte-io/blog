@@ -4,7 +4,7 @@ title: "Deploy ToolJet in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of ToolJet, a powerful open-source low-code platform, enabling you to build internal tools faster and more efficiently. With OctaByte's fully managed services, you can skip the technical complexities and focus on innovation."
 tags: [ToolJet deployment, low-code platform, open-source software, managed services, OctaByte, internal tools, time-saving solutions, cost-effective deployment, automated backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "ToolJet"]
 cover:
   image: images/cover.png
   caption: "Deploy ToolJet in Minutes with OctaByte.io"

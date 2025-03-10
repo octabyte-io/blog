@@ -4,7 +4,7 @@ title: "Deploy TotaljsFlow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying TotaljsFlow effortless. Learn what TotaljsFlow is, why it’s a game-changer for workflow automation, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [TotaljsFlow, OctaByte, workflow automation, managed open-source software, deploy TotaljsFlow, TotaljsFlow benefits, managed IT services, open-source deployment, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "TotaljsFlow"]
 cover:
   image: images/cover.png
   caption: "Deploy TotaljsFlow in Minutes with OctaByte.io"

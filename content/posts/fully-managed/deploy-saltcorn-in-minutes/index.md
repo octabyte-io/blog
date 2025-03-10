@@ -4,7 +4,7 @@ title: "Deploy Saltcorn in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Saltcorn, a powerful open-source no-code application builder, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Saltcorn deployment, no-code application builder, managed open-source software, OctaByte, Saltcorn hosting, no-code platform, managed IT services, open-source software deployment, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Saltcorn"]
 cover:
   image: images/cover.png
   caption: "Deploy Saltcorn in Minutes with OctaByte.io"

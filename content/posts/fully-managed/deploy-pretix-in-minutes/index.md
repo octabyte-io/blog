@@ -4,7 +4,7 @@ title: "Deploy Pretix in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Pretix, a powerful open-source event management software. Save time, reduce costs, and enjoy seamless event planning with our fully managed services."
 tags: [Pretix deployment, managed Pretix hosting, open-source event management, OctaByte, event planning software, managed open-source services, Pretix benefits, automated SSL, automatic backups, cost-effective Pretix hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Pretix"]
 cover:
   image: images/cover.png
   caption: "Deploy Pretix in Minutes with OctaByte.io"

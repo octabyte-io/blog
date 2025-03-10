@@ -4,7 +4,7 @@ title: "Deploy LightLDAP in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of LightLDAP, a lightweight LDAP server. Save time, reduce costs, and ensure seamless LDAP integration with our fully managed services."
 tags: [LightLDAP, LDAP server, deploy LightLDAP, managed LDAP services, OctaByte, open-source software deployment, LDAP management, secure LDAP, automated backups, SSL management, IT infrastructure solutions]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "LightLDAP"]
 cover:
   image: images/cover.png
   caption: "Deploy LightLDAP in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Coroot in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Coroot, an open-source observability tool, with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Deploy Coroot, OctaByte, managed Coroot services, open-source observability, Coroot deployment, managed open-source software, Coroot benefits, OctaByte features, Coroot SSL management, Coroot backups, Coroot support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Coroot"]
 cover:
   image: images/cover.png
   caption: "Deploy Coroot in Minutes with OctaByte.io"

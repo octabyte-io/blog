@@ -4,7 +4,7 @@ title: "Deploy Cronicle in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Cronicle, a powerful open-source job scheduler and task automation tool. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Cronicle deployment, open-source job scheduler, task automation, managed Cronicle, OctaByte, automated backups, SSL management, cost-effective IT solutions, open-source software management]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Cronicle"]
 cover:
   image: images/cover.png
   caption: "Deploy Cronicle in Minutes with OctaByte.io"

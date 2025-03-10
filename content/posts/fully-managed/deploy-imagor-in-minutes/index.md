@@ -4,7 +4,7 @@ title: "Deploy Imagor in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Imagor, a high-performance image processing server. Save time, reduce costs, and enjoy seamless image optimization with OctaByte's fully managed services."
 tags: [Imagor deployment, OctaByte, managed image processing, open-source software, image optimization, cost-effective hosting, automatic backups, SSL management, managed services]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Imagor"]
 cover:
   image: images/cover.png
   caption: "Deploy Imagor in Minutes with OctaByte.io"

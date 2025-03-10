@@ -4,7 +4,7 @@ title: "Deploy Plane in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Plane, the open-source project management tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Plane, Plane project management, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective deployment, Plane deployment, open-source project management tool]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "Plane"]
 cover:
   image: images/cover.png
   caption: "Deploy Plane in Minutes with OctaByte.io"

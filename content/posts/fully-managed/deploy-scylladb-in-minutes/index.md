@@ -4,7 +4,7 @@ title: "Deploy ScyllaDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ScyllaDB, a high-performance NoSQL database. Learn why ScyllaDB is a game-changer for modern applications and how OctaByte's fully managed services save you time, money, and effort."
 tags: [ScyllaDB deployment, managed ScyllaDB, NoSQL database, OctaByte, high-performance database, managed open-source software, ScyllaDB benefits, database management, cloud database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "ScyllaDB"]
 cover:
   image: images/cover.png
   caption: "Deploy ScyllaDB in Minutes with OctaByte.io"

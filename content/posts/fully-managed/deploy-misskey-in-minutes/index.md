@@ -4,7 +4,7 @@ title: "Deploy Misskey in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Misskey, a powerful open-source social media platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Misskey deployment, OctaByte, managed open-source software, social media platform, automatic backups, SSL management, cost-effective hosting, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "Misskey"]
 cover:
   image: images/cover.png
   caption: "Deploy Misskey in Minutes with OctaByte.io"

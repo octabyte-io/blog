@@ -4,7 +4,7 @@ title: "Deploy Bytebase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Bytebase, an open-source database schema change and version control tool. Save time, reduce costs, and enjoy seamless database management with OctaByte's fully managed services."
 tags: [Bytebase deployment, managed Bytebase services, OctaByte, database schema management, open-source database tools, automated database backups, SSL management, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Bytebase"]
 cover:
   image: images/cover.png
   caption: "Deploy Bytebase in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy KeyDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying KeyDB, a high-performance, open-source database, effortless and hassle-free. Learn why KeyDB is a game-changer for your applications and how OctaByte.io’s fully managed services save you time, money, and effort."
 tags: [KeyDB deployment, managed KeyDB services, OctaByte, open-source database, high-performance database, managed database hosting, KeyDB benefits, deploy KeyDB in minutes, KeyDB vs Redis, database management, automatic backups, SSL management, database support]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "KeyDB"]
 cover:
   image: images/cover.png
   caption: "Deploy KeyDB in Minutes with OctaByte.io"

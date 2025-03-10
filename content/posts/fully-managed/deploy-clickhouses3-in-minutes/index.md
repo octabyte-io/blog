@@ -4,7 +4,7 @@ title: "Deploy ClickHouseS3 in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ClickHouseS3, a powerful open-source analytics database. Learn why ClickHouseS3 is a game-changer for data-driven businesses and how OctaByte's fully managed services save you time, money, and effort."
 tags: [ClickHouseS3, deploy ClickHouseS3, managed ClickHouseS3, OctaByte, open-source analytics, data analytics, managed database services, ClickHouse deployment, cost-effective analytics, automated backups, SSL management, managed IT services]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "Specialized Databases", "ClickHouseS3"]
 cover:
   image: images/cover.png
   caption: "Deploy ClickHouseS3 in Minutes with OctaByte.io"

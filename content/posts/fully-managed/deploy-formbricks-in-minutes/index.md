@@ -4,7 +4,7 @@ title: "Deploy Formbricks in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Formbricks, an open-source form and survey tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Formbricks deployment, open-source form tool, managed Formbricks, OctaByte, Formbricks hosting, open-source survey tool, managed open-source software, Formbricks benefits, OctaByte services, deploy Formbricks]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "Formbricks"]
 cover:
   image: images/cover.png
   caption: "Deploy Formbricks in Minutes with OctaByte.io"

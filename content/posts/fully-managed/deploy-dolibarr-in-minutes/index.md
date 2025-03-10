@@ -4,7 +4,7 @@ title: "Deploy Dolibarr in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Dolibarr, a powerful open-source ERP and CRM solution. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [Deploy Dolibarr, Dolibarr ERP, Dolibarr CRM, OctaByte, managed open-source software, ERP deployment, CRM deployment, open-source ERP, open-source CRM, managed IT services, automatic backups, SSL management, cost-effective ERP, Dolibarr hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Dolibarr"]
 cover:
   image: images/cover.png
   caption: "Deploy Dolibarr in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Tika in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Apache Tika, a powerful content analysis tool. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Apache Tika, Deploy Tika, Managed Tika Services, OctaByte, Content Analysis Tool, Open Source Software, Managed Hosting, Automatic Backups, SSL Management, IT Solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Tika"]
 cover:
   image: images/cover.png
   caption: "Deploy Tika in Minutes with OctaByte.io"

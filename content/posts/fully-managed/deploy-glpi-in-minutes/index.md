@@ -4,7 +4,7 @@ title: "Deploy GLPI in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of GLPI, a powerful open-source IT asset management and helpdesk solution. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [GLPI deployment, managed GLPI services, IT asset management, helpdesk solution, open-source software, OctaByte, managed open-source services, GLPI hosting, IT infrastructure management, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "GLPI"]
 cover:
   image: images/cover.png
   caption: "Deploy GLPI in Minutes with OctaByte.io"

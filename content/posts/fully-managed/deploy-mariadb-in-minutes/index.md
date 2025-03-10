@@ -4,7 +4,7 @@ title: "Deploy MariaDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MariaDB, a powerful open-source relational database. Learn why MariaDB is a top choice for businesses and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [MariaDB deployment, managed MariaDB services, OctaByte, open-source database, MariaDB benefits, managed database hosting, MariaDB setup, database management, secure MariaDB hosting, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "MariaDB"]
 cover:
   image: images/cover.png
   caption: "Deploy MariaDB in Minutes with OctaByte.io"

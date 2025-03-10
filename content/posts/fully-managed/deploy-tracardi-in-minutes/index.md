@@ -4,7 +4,7 @@ title: "Deploy Tracardi in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Tracardi, an open-source customer data platform (CDP). Learn why Tracardi is a game-changer for businesses and how OctaByte's fully managed services save you time, money, and effort."
 tags: [Deploy Tracardi, Tracardi open-source, customer data platform, OctaByte, managed Tracardi, open-source software deployment, automated backups, SSL management, cost-effective CDP, Tracardi support]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "Tracardi"]
 cover:
   image: images/cover.png
   caption: "Deploy Tracardi in Minutes with OctaByte.io"

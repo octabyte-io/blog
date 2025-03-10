@@ -4,7 +4,7 @@ title: "Deploy Discourse in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Discourse, a powerful open-source discussion platform. Save time, reduce costs, and enjoy hassle-free management with OctaByte's fully managed services."
 tags: [Deploy Discourse, OctaByte, managed Discourse hosting, open-source forum software, automated backups, SSL management, cost-effective Discourse hosting, managed open-source software]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Discourse"]
 cover:
   image: images/cover.png
   caption: "Deploy Discourse in Minutes with OctaByte.io"

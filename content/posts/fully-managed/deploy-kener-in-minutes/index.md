@@ -4,7 +4,7 @@ title: "Deploy Kener in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Kener effortless. Learn what Kener is, why it’s a game-changer, and the benefits of using OctaByte’s fully managed services to deploy and maintain it seamlessly."
 tags: [Deploy Kener, Kener deployment, OctaByte, managed Kener hosting, open-source software hosting, Kener benefits, managed IT services, Kener setup, OctaByte Kener, Kener SSL management, Kener backups]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Kener"]
 cover:
   image: images/cover.png
   caption: "Deploy Kener in Minutes with OctaByte.io"

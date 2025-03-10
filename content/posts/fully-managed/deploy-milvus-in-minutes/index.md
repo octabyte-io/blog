@@ -4,7 +4,7 @@ title: "Deploy Milvus in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Milvus, the open-source vector database designed for AI and machine learning applications. Learn why Milvus is a game-changer and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Milvus deployment, OctaByte, managed Milvus services, vector database, AI and ML applications, open-source software, managed hosting, automatic backups, SSL management, cost-effective solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "Milvus"]
 cover:
   image: images/cover.png
   caption: "Deploy Milvus in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Vault in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of HashiCorp Vault, a powerful tool for secrets management and data protection. Learn why deploying Vault with OctaByte saves time, reduces costs, and ensures top-notch security."
 tags: [Deploy Vault, HashiCorp Vault, Secrets Management, OctaByte, Managed Vault Services, Secure Data Protection, Automated Backups, SSL Management, Cost-Effective Vault Deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Vault"]
 cover:
   image: images/cover.png
   caption: "Deploy Vault in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Lago in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Lago, the open-source billing and invoicing platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Deploy Lago, Lago billing platform, open-source billing software, OctaByte, managed Lago hosting, Lago deployment, Lago benefits, OctaByte managed services, Lago open-source, Lago invoicing software]
-categories: [Fully managed, Open Source Hosting, Applications, Invoicing And Payments]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Invoicing And Payments", "Lago"]
 cover:
   image: images/cover.png
   caption: "Deploy Lago in Minutes with OctaByte.io"

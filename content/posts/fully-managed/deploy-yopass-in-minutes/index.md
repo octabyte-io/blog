@@ -4,7 +4,7 @@ title: "Deploy Yopass in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Yopass, a secure and open-source secret-sharing tool. Learn why Yopass is essential for secure communication and how OctaByte’s fully managed services save you time, effort, and resources."
 tags: [Yopass deployment, secure secret sharing, OctaByte, managed open-source software, Yopass benefits, secure communication tools, automated SSL management, cost-effective software hosting, managed IT services, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Yopass"]
 cover:
   image: images/cover.png
   caption: "Deploy Yopass in Minutes with OctaByte.io"

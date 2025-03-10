@@ -4,7 +4,7 @@ title: "Deploy Hydra in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Hydra, a powerful open-source software. Learn why Hydra is a game-changer and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Deploy Hydra, Hydra open-source software, OctaByte, managed Hydra services, Hydra deployment, open-source software management, Hydra benefits, OctaByte Hydra hosting, secure Hydra deployment, automated Hydra backups]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "Specialized Databases", "Hydra"]
 cover:
   image: images/cover.png
   caption: "Deploy Hydra in Minutes with OctaByte.io"

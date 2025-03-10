@@ -4,7 +4,7 @@ title: "Deploy WooCommerce in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies WooCommerce deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless operation. Focus on growing your online store while we handle the technical details."
 tags: [WooCommerce deployment, managed WooCommerce hosting, OctaByte, eCommerce solutions, open-source software hosting, WooCommerce setup, managed WooCommerce services, affordable WooCommerce hosting, secure WooCommerce hosting, WooCommerce support]
-categories: [Fully managed, Open Source Hosting, Applications, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "E Commerce", "WooCommerce"]
 cover:
   image: images/cover.png
   caption: "Deploy WooCommerce in Minutes with OctaByte.io"

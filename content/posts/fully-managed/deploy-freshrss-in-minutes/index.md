@@ -4,7 +4,7 @@ title: "Deploy FreshRSS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying FreshRSS effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [FreshRSS deployment, managed FreshRSS, OctaByte, open-source RSS feed, time-saving RSS, cost-effective RSS, automatic backups, SSL management, managed open-source software]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "FreshRSS"]
 cover:
   image: images/cover.png
   caption: "Deploy FreshRSS in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Checkmate in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Checkmate, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Checkmate, Checkmate open-source, OctaByte, managed Checkmate deployment, open-source software hosting, Checkmate benefits, automated backups, SSL management, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Checkmate"]
 cover:
   image: images/cover.png
   caption: "Deploy Checkmate in Minutes with OctaByte.io"

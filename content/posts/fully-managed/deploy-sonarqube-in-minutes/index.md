@@ -4,7 +4,7 @@ title: "Deploy SonarQube in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of SonarQube, a powerful open-source tool for continuous code quality inspection. Save time, reduce costs, and ensure secure, hassle-free software management with OctaByte's fully managed services."
 tags: [SonarQube deployment, OctaByte, managed SonarQube, code quality inspection, open-source software management, automatic backups, SSL management, cost-effective IT solutions, DevOps tools, continuous code quality]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "SonarQube"]
 cover:
   image: images/cover.png
   caption: "Deploy SonarQube in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Healthchecks in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Healthchecks.io effortless. Save time, reduce costs, and ensure your monitoring systems are always up and running with our fully managed services."
 tags: [Healthchecksio, deploy Healthchecks, managed Healthchecks, open-source monitoring, OctaByte, automated backups, SSL management, cost-effective monitoring, IT infrastructure management]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Healthchecks"]
 cover:
   image: images/cover.png
   caption: "Deploy Healthchecks in Minutes with OctaByte.io"

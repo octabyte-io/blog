@@ -4,7 +4,7 @@ title: "Deploy Filestash in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Filestash—a powerful open-source file management solution—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Filestash, OctaByte, managed Filestash, open-source file management, automatic backups, SSL management, cost-effective software deployment, managed open-source services]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "Filestash"]
 cover:
   image: images/cover.png
   caption: "Deploy Filestash in Minutes with OctaByte.io"

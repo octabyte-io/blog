@@ -4,7 +4,7 @@ title: "Deploy Joplin in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Joplin, the popular open-source note-taking app, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Joplin deployment, managed Joplin hosting, OctaByte, open-source note-taking app, managed open-source software, automatic backups, SSL management, cost-effective Joplin hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Joplin"]
 cover:
   image: images/cover.png
   caption: "Deploy Joplin in Minutes with OctaByte.io"

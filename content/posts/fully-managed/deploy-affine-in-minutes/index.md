@@ -4,7 +4,7 @@ title: "Deploy Affine in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Affine, the powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Affine deployment, OctaByte, managed open-source software, time-saving software deployment, cost-effective IT solutions, automatic backups, SSL management, open-source software hosting, Affine benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Affine"]
 cover:
   image: images/cover.png
   caption: "Deploy Affine in Minutes with OctaByte.io"

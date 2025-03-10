@@ -4,7 +4,7 @@ title: "Deploy Jenkins in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Jenkins deployment, saving you time and effort while ensuring a secure, cost-effective, and fully managed solution for your CI/CD needs."
 tags: [Jenkins deployment, managed Jenkins, CI/CD tools, OctaByte, automated Jenkins setup, Jenkins hosting, Jenkins management, DevOps tools, open-source software hosting, Jenkins backup and restore]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Jenkins"]
 cover:
   image: images/cover.png
   caption: "Deploy Jenkins in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy HedgeDoc in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying HedgeDoc, a powerful collaborative markdown editor, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy HedgeDoc, HedgeDoc hosting, managed HedgeDoc, OctaByte, collaborative markdown editor, open-source software hosting, managed open-source services, automatic backups, SSL management, IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "HedgeDoc"]
 cover:
   image: images/cover.png
   caption: "Deploy HedgeDoc in Minutes with OctaByte.io"

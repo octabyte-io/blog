@@ -4,7 +4,7 @@ title: "Deploy XWiki in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing XWiki effortless. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one fully managed solution."
 tags: [Deploy XWiki, XWiki hosting, managed XWiki, OctaByte, open-source wiki software, XWiki deployment, managed open-source services, XWiki benefits, secure wiki hosting, automatic backups for XWiki]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "XWiki"]
 cover:
   image: images/cover.png
   caption: "Deploy XWiki in Minutes with OctaByte.io"

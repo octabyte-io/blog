@@ -4,7 +4,7 @@ title: "Deploy Rstudio in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of RStudio, a powerful open-source IDE for R programming. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [RStudio deployment, managed RStudio hosting, OctaByte, open-source software management, R programming IDE, cost-effective RStudio hosting, automated backups, SSL management, RStudio support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Rstudio"]
 cover:
   image: images/cover.png
   caption: "Deploy Rstudio in Minutes with OctaByte.io"

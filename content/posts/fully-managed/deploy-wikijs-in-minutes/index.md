@@ -4,7 +4,7 @@ title: "Deploy Wikijs in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Wiki.js effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support—all in one place."
 tags: [Wikijs deployment, managed Wikijs hosting, OctaByte, open-source software hosting, managed IT services, Wikijs benefits, secure Wikijs hosting, automatic backups, SSL management, cost-effective Wikijs]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Wikijs"]
 cover:
   image: images/cover.png
   caption: "Deploy Wikijs in Minutes with OctaByte.io"

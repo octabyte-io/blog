@@ -4,7 +4,7 @@ title: "Deploy Airflow-worker in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Airflow-worker, a powerful tool for orchestrating complex workflows. Learn why deploying Airflow-worker with OctaByte saves time, reduces costs, and ensures seamless management with expert support."
 tags: [Airflow-worker deployment, managed Airflow services, OctaByte, workflow orchestration, open-source software management, cost-effective IT solutions, automated backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: [Fully managed, Open Source Hosting, Applications, Automation, Airflow Worker]
 cover:
   image: images/cover.png
   caption: "Deploy Airflow-worker in Minutes with OctaByte.io"

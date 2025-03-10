@@ -4,7 +4,7 @@ title: "Deploy Knime in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of KNIME, a powerful open-source data analytics platform. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [KNIME deployment, managed KNIME services, OctaByte, open-source data analytics, automated KNIME setup, cost-effective KNIME solutions, KNIME hosting, managed IT services, KNIME backup and restore, SSL management for KNIME]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Knime"]
 cover:
   image: images/cover.png
   caption: "Deploy Knime in Minutes with OctaByte.io"

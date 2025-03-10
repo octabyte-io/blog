@@ -4,7 +4,7 @@ title: "Deploy Ackee in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Ackee, the privacy-focused analytics tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Ackee, Ackee analytics, OctaByte, managed Ackee hosting, privacy-focused analytics, open-source software hosting, managed open-source services, automatic backups, SSL management, cost-effective analytics]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Ackee"]
 cover:
   image: images/cover.png
   caption: "Deploy Ackee in Minutes with OctaByte.io"

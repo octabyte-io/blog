@@ -4,7 +4,7 @@ title: "Deploy Listmonk in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Listmonk, a powerful open-source newsletter and mailing list manager, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Listmonk deployment, managed Listmonk hosting, open-source newsletter software, OctaByte, Listmonk benefits, managed open-source services, Listmonk setup, email marketing tools, Listmonk hosting, OctaByte Listmonk]
-categories: [Fully managed, Open Source Hosting, Applications, Email Marketing]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Email Marketing", "Listmonk"]
 cover:
   image: images/cover.png
   caption: "Deploy Listmonk in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Photon in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Photon, a powerful open-source software, with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support."
 tags: [Deploy Photon, Photon open-source, OctaByte, managed Photon services, open-source software deployment, Photon benefits, Photon SSL management, Photon backups, Photon support]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Photon"]
 cover:
   image: images/cover.png
   caption: "Deploy Photon in Minutes with OctaByte.io"

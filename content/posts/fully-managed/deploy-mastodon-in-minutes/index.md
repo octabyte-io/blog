@@ -4,7 +4,7 @@ title: "Deploy Mastodon in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Mastodon, the open-source social networking platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Mastodon, Mastodon hosting, OctaByte, open-source social network, managed Mastodon, Mastodon deployment, Mastodon benefits, OctaByte Mastodon, Mastodon setup, Mastodon managed services]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Mastodon"]
 cover:
   image: images/cover.png
   caption: "Deploy Mastodon in Minutes with OctaByte.io"

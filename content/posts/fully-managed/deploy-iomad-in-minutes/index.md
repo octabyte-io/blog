@@ -4,7 +4,7 @@ title: "Deploy IOMAD in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of IOMAD, a powerful open-source Learning Management System (LMS). Learn why IOMAD is a game-changer for educational institutions and businesses, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [IOMAD deployment, managed IOMAD services, OctaByte, open-source LMS, IOMAD benefits, managed open-source software, IOMAD hosting, educational software, learning management system, OctaByte IOMAD]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "IOMAD"]
 cover:
   image: images/cover.png
   caption: "Deploy IOMAD in Minutes with OctaByte.io"

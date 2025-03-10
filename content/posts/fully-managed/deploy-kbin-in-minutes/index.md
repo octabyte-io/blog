@@ -4,7 +4,7 @@ title: "Deploy KBIN in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of KBIN, a powerful open-source software, with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [KBIN deployment, OctaByte, managed open-source software, KBIN hosting, automatic backups, SSL management, cost-effective software deployment, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "KBIN"]
 cover:
   image: images/cover.png
   caption: "Deploy KBIN in Minutes with OctaByte.io"

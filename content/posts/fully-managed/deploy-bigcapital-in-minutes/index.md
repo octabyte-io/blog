@@ -4,7 +4,7 @@ title: "Deploy Bigcapital in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Bigcapital, a powerful open-source accounting software. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Bigcapital deployment, OctaByte, open-source accounting software, managed services, time-saving, cost-effective, automatic backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Invoicing And Payments]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Invoicing And Payments", "Bigcapital"]
 cover:
   image: images/cover.png
   caption: "Deploy Bigcapital in Minutes with OctaByte.io"

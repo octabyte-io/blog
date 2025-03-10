@@ -4,7 +4,7 @@ title: "Deploy Cryptgeon in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Cryptgeon, a secure and open-source secret-sharing tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Cryptgeon deployment, secure secret sharing, open-source software, managed services, OctaByte, automatic backups, SSL management, cost-effective hosting, time-saving solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Cryptgeon"]
 cover:
   image: images/cover.png
   caption: "Deploy Cryptgeon in Minutes with OctaByte.io"

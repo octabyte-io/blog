@@ -4,7 +4,7 @@ title: "Deploy LobeChat in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying LobeChat effortless. Learn what LobeChat is, why it’s a game-changer for communication, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [LobeChat, deploy LobeChat, OctaByte, managed open-source software, LobeChat deployment, open-source communication tools, managed IT services, automatic backups, SSL management, cost-effective software solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "LobeChat"]
 cover:
   image: images/cover.png
   caption: "Deploy LobeChat in Minutes with OctaByte.io"

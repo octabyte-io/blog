@@ -4,7 +4,7 @@ title: "Deploy ChangeDetection in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of ChangeDetection, a powerful open-source tool for monitoring website changes. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [ChangeDetection, website monitoring, open-source software, managed services, OctaByte, deploy ChangeDetection, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "ChangeDetection"]
 cover:
   image: images/cover.png
   caption: "Deploy ChangeDetection in Minutes with OctaByte.io"

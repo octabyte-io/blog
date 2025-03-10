@@ -4,7 +4,7 @@ title: "Deploy Mautic in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Mautic, the powerful open-source marketing automation platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Deploy Mautic, Mautic hosting, managed Mautic services, OctaByte, open-source marketing automation, Mautic deployment, managed open-source software, Mautic benefits, OctaByte Mautic, Mautic setup]
-categories: [Fully managed, Open Source Hosting, Applications, Email Marketing, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Email Marketing", "Automation", "Mautic"]
 cover:
   image: images/cover.png
   caption: "Deploy Mautic in Minutes with OctaByte.io"

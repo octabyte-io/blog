@@ -4,7 +4,7 @@ title: "Deploy CryptPad in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying CryptPad—a secure, open-source collaboration tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [CryptPad deployment, managed CryptPad hosting, secure collaboration tools, open-source software hosting, OctaByte, CryptPad benefits, managed IT services, automatic backups, SSL management, cost-effective software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "CryptPad"]
 cover:
   image: images/cover.png
   caption: "Deploy CryptPad in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Lobsters in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes it effortless to deploy and manage Lobsters, a powerful open-source link aggregation platform. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Deploy Lobsters, Lobsters open-source, OctaByte, managed Lobsters hosting, link aggregation platform, open-source software deployment, managed IT services, Lobsters deployment, OctaByte benefits]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Lobsters"]
 cover:
   image: images/cover.png
   caption: "Deploy Lobsters in Minutes with OctaByte.io"

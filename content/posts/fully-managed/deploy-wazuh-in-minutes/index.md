@@ -4,7 +4,7 @@ title: "Deploy Wazuh in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Wazuh, a powerful open-source security monitoring solution. Save time, reduce costs, and enhance your cybersecurity with OctaByte's fully managed services."
 tags: [Wazuh deployment, managed Wazuh services, OctaByte, open-source security monitoring, cybersecurity solutions, managed IT services, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Wazuh"]
 cover:
   image: images/cover.png
   caption: "Deploy Wazuh in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Peppermint in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Peppermint, an open-source issue tracking and project management tool. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [Deploy Peppermint, Peppermint issue tracking, OctaByte, managed open-source software, project management tool, automated backups, SSL management, cost-effective IT solutions, open-source software deployment, Peppermint hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Peppermint"]
 cover:
   image: images/cover.png
   caption: "Deploy Peppermint in Minutes with OctaByte.io"

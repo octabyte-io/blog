@@ -4,7 +4,7 @@ title: "Deploy Mealie in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Mealie, the ultimate self-hosted meal planning and recipe management tool, quick and effortless. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [Deploy Mealie, Mealie deployment, self-hosted meal planning, recipe management, OctaByte, managed open-source software, time-saving tools, cost-effective hosting, automatic backups, SSL management, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Mealie"]
 cover:
   image: images/cover.png
   caption: "Deploy Mealie in Minutes with OctaByte.io"

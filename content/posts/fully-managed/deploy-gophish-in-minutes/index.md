@@ -4,7 +4,7 @@ title: "Deploy Gophish in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Gophish, a powerful open-source phishing simulation tool. Save time, reduce costs, and enhance your organization's security posture with our fully managed services."
 tags: [Gophish deployment, phishing simulation, open-source security tools, managed Gophish, OctaByte, cybersecurity, phishing awareness, automated backups, SSL management, IT security solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gophish"]
 cover:
   image: images/cover.png
   caption: "Deploy Gophish in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy DbGate in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of DbGate, a powerful open-source database management tool. Save time, reduce costs, and enjoy seamless database management with OctaByte's fully managed services."
 tags: [Deploy DbGate, DbGate deployment, managed DbGate services, OctaByte, open-source database management, managed open-source software, database management tool, DbGate benefits, OctaByte benefits, automated database backups, SSL management, database support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "DbGate"]
 cover:
   image: images/cover.png
   caption: "Deploy DbGate in Minutes with OctaByte.io"

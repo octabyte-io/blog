@@ -4,7 +4,7 @@ title: "Deploy LocalStack in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of LocalStack, a powerful tool for testing AWS services locally. Save time, reduce costs, and enjoy seamless management with OctaByte's fully managed services."
 tags: [LocalStack deployment, AWS local testing, OctaByte, managed LocalStack, cloud testing, AWS emulator, cost-effective LocalStack, automated backups, SSL management, open-source software management]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Infrastructure]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Infrastructure", "LocalStack"]
 cover:
   image: images/cover.png
   caption: "Deploy LocalStack in Minutes with OctaByte.io"

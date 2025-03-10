@@ -4,7 +4,7 @@ title: "Deploy ILLA in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ILLA, an open-source low-code platform, saving you time, effort, and resources. Let OctaByte handle the technical complexities while you focus on building powerful applications."
 tags: [Deploy ILLA, ILLA low-code platform, OctaByte, managed open-source software, low-code deployment, ILLA benefits, OctaByte managed services, open-source software hosting, ILLA deployment made easy]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "ILLA"]
 cover:
   image: images/cover.png
   caption: "Deploy ILLA in Minutes with OctaByte.io"

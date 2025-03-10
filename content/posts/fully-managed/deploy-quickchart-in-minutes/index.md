@@ -4,7 +4,7 @@ title: "Deploy QuickChart in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying QuickChart effortless. Learn what QuickChart is, why it’s a game-changer for data visualization, and the benefits of using OctaByte’s fully managed services to get started in minutes."
 tags: [QuickChart deployment, OctaByte, managed open-source software, data visualization, QuickChart benefits, automated SSL, managed backups, cost-effective IT solutions, QuickChart hosting, open-source software management]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "QuickChart"]
 cover:
   image: images/cover.png
   caption: "Deploy QuickChart in Minutes with OctaByte.io"

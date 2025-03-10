@@ -4,7 +4,7 @@ title: "Deploy GlitchTip in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying GlitchTip, an open-source error tracking tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [GlitchTip, error tracking, open-source software, OctaByte, managed services, deploy GlitchTip, error monitoring, cost-effective, automatic backups, SSL management, open-source deployment]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "GlitchTip"]
 cover:
   image: images/cover.png
   caption: "Deploy GlitchTip in Minutes with OctaByte.io"

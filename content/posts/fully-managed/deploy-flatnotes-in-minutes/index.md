@@ -4,7 +4,7 @@ title: "Deploy Flatnotes in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Flatnotes, a lightweight and efficient note-taking app, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Flatnotes, deploy Flatnotes, OctaByte, managed open-source software, note-taking app, automatic backups, SSL management, cost-effective software deployment, managed IT services, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Flatnotes"]
 cover:
   image: images/cover.png
   caption: "Deploy Flatnotes in Minutes with OctaByte.io"

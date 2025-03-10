@@ -4,7 +4,7 @@ title: "Deploy Keycloak in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Keycloak, a powerful open-source identity and access management solution. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all with just a few clicks."
 tags: [Keycloak deployment, managed Keycloak services, OctaByte, open-source identity management, Keycloak hosting, secure authentication, managed IT services, Keycloak setup, Keycloak benefits, OctaByte Keycloak]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "Keycloak"]
 cover:
   image: images/cover.png
   caption: "Deploy Keycloak in Minutes with OctaByte.io"

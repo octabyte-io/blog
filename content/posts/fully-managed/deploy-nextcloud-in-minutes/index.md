@@ -4,7 +4,7 @@ title: "Deploy Nextcloud in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Nextcloud effortless. Learn what Nextcloud is, why it’s a game-changer for file sharing and collaboration, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [Nextcloud deployment, managed Nextcloud hosting, OctaByte, Nextcloud benefits, secure file sharing, open-source software hosting, managed cloud services, Nextcloud setup, OctaByte Nextcloud, automated backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "Nextcloud"]
 cover:
   image: images/cover.png
   caption: "Deploy Nextcloud in Minutes with OctaByte.io"

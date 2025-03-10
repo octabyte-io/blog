@@ -4,7 +4,7 @@ title: "Deploy Dremio in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Dremio, the powerful open-source data lakehouse platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Deploy Dremio, OctaByte, managed Dremio services, data lakehouse platform, open-source software deployment, managed IT services, Dremio benefits, OctaByte Dremio deployment, cost-effective Dremio hosting, automated Dremio backups]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Dremio"]
 cover:
   image: images/cover.png
   caption: "Deploy Dremio in Minutes with OctaByte.io"

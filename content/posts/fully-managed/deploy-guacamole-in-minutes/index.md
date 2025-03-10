@@ -4,7 +4,7 @@ title: "Deploy Guacamole in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Apache Guacamole, a powerful open-source remote desktop gateway, quick and hassle-free. Learn why Guacamole is a game-changer for remote access and how OctaByte’s managed services simplify deployment, maintenance, and security."
 tags: [Deploy Guacamole, Apache Guacamole, Remote Desktop Gateway, Managed Guacamole, OctaByte, Open-Source Software, Remote Access Solution, Managed IT Services, Secure Remote Desktop, Cloud Deployment]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Guacamole"]
 cover:
   image: images/cover.png
   caption: "Deploy Guacamole in Minutes with OctaByte.io"

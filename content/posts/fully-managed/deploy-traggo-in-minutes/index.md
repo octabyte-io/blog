@@ -4,7 +4,7 @@ title: "Deploy Traggo in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Traggo, a powerful open-source time-tracking tool, effortless. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Traggo deployment, open-source time tracking, managed Traggo hosting, OctaByte, time-tracking software, managed open-source services, Traggo benefits, Traggo setup, Traggo hosting, OctaByte Traggo]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Traggo"]
 cover:
   image: images/cover.png
   caption: "Deploy Traggo in Minutes with OctaByte.io"

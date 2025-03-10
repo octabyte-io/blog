@@ -4,7 +4,7 @@ title: "Deploy draw in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Draw, a powerful open-source diagramming tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Draw, Draw diagramming tool, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective software deployment, open-source diagramming, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "draw"]
 cover:
   image: images/cover.png
   caption: "Deploy draw in Minutes with OctaByte.io"

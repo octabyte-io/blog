@@ -4,7 +4,7 @@ title: "Deploy Owncast in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Owncast, the open-source live streaming platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Owncast deployment, live streaming platform, open-source streaming, managed Owncast hosting, OctaByte, Owncast benefits, Owncast setup, live streaming solutions, managed hosting services, Owncast SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Fediverse", "Owncast"]
 cover:
   image: images/cover.png
   caption: "Deploy Owncast in Minutes with OctaByte.io"

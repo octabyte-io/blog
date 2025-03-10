@@ -4,7 +4,7 @@ title: "Deploy Kimai in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Kimai, the open-source time-tracking software, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Kimai deployment, time-tracking software, open-source software, managed services, OctaByte, automatic backups, SSL management, cost-effective IT solutions, expert support, cloud deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Kimai"]
 cover:
   image: images/cover.png
   caption: "Deploy Kimai in Minutes with OctaByte.io"

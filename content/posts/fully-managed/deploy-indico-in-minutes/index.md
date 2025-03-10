@@ -4,7 +4,7 @@ title: "Deploy Indico in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Indico, the powerful open-source event management software, effortless. Save time, reduce costs, and enjoy seamless support with our fully managed services."
 tags: [Indico deployment, managed Indico hosting, open-source event management, OctaByte, Indico setup, managed open-source software, Indico benefits, event management software, Indico hosting solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Indico"]
 cover:
   image: images/cover.png
   caption: "Deploy Indico in Minutes with OctaByte.io"

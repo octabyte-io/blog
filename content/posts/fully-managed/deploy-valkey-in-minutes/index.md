@@ -4,7 +4,7 @@ title: "Deploy Valkey in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Valkey, a high-performance, open-source key-value store. Learn why Valkey is a game-changer for modern applications and how OctaByte's fully managed services make it effortless to get started."
 tags: [Valkey deployment, managed Valkey services, OctaByte, open-source key-value store, high-performance database, managed database services, Valkey benefits, deploy Valkey in minutes]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "Specialized Databases", "Valkey"]
 cover:
   image: images/cover.png
   caption: "Deploy Valkey in Minutes with OctaByte.io"

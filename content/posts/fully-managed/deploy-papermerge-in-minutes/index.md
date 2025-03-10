@@ -4,7 +4,7 @@ title: "Deploy Papermerge in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Papermerge, a powerful open-source document management system. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Papermerge deployment, open-source document management, managed Papermerge hosting, OctaByte, document management system, automated backups, SSL management, cost-effective DMS, Papermerge benefits, managed open-source software]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Papermerge"]
 cover:
   image: images/cover.png
   caption: "Deploy Papermerge in Minutes with OctaByte.io"

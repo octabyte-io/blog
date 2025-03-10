@@ -4,7 +4,7 @@ title: "Deploy Crater in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Crater, the open-source invoicing and expense tracking software. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy Crater, Crater invoicing software, open-source invoicing, managed Crater hosting, OctaByte, automated invoicing, expense tracking, managed open-source software, Crater deployment, secure invoicing software]
-categories: [Fully managed, Open Source Hosting, Applications, Invoicing And Payments]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Invoicing And Payments", "Crater"]
 cover:
   image: images/cover.png
   caption: "Deploy Crater in Minutes with OctaByte.io"

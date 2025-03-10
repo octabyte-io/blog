@@ -4,7 +4,7 @@ title: "Deploy Drupal in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Drupal deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless performance. Learn why Drupal is a powerful CMS and how OctaByte makes it easy to deploy and manage."
 tags: [Deploy Drupal, Drupal hosting, managed Drupal services, OctaByte, Drupal deployment, open-source CMS, managed hosting, Drupal benefits, automated backups, SSL management, Drupal support]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Drupal"]
 cover:
   image: images/cover.png
   caption: "Deploy Drupal in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy OpenResty in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OpenResty, a powerful web platform built on NGINX and LuaJIT. Learn why OpenResty is a game-changer for web applications and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [OpenResty deployment, managed OpenResty services, OctaByte, web application performance, NGINX with LuaJIT, managed hosting for OpenResty, cost-effective OpenResty solutions, secure OpenResty hosting, automatic SSL for OpenResty, OpenResty support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "OpenResty"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenResty in Minutes with OctaByte.io"

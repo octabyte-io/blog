@@ -4,7 +4,7 @@ title: "Deploy AnythingLLM in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of AnythingLLM, a powerful open-source tool for managing and deploying large language models. Learn why deploying AnythingLLM with OctaByte saves time, reduces costs, and ensures seamless management."
 tags: [Deploy AnythingLLM, OctaByte, managed open-source software, large language models, AI deployment, cost-effective AI solutions, automated backups, SSL management, AI support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "AnythingLLM"]
 cover:
   image: images/cover.png
   caption: "Deploy AnythingLLM in Minutes with OctaByte.io"

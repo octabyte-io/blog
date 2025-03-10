@@ -4,7 +4,7 @@ title: "Deploy Weaviate in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Weaviate, a powerful open-source vector search engine. Save time, reduce costs, and enjoy seamless scalability with OctaByte's fully managed services."
 tags: [Weaviate deployment, managed Weaviate hosting, OctaByte, vector search engine, open-source software hosting, managed open-source services, Weaviate benefits, OctaByte Weaviate, scalable Weaviate hosting]
-categories: [Fully managed, Open Source Hosting, Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Specialized Databases", "Weaviate"]
 cover:
   image: images/cover.png
   caption: "Deploy Weaviate in Minutes with OctaByte.io"

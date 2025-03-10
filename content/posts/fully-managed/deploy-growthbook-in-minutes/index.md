@@ -4,7 +4,7 @@ title: "Deploy GrowthBook in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying GrowthBook, the open-source feature flagging and experimentation platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [GrowthBook, feature flagging, A/B testing, open-source software, managed services, OctaByte, deploy GrowthBook, cost-effective, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "GrowthBook"]
 cover:
   image: images/cover.png
   caption: "Deploy GrowthBook in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy BTCPay in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of BTCPay, a powerful open-source Bitcoin payment processor. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [BTCPay deployment, BTCPay hosting, managed BTCPay services, OctaByte, Bitcoin payment processor, open-source software hosting, managed open-source solutions, secure BTCPay hosting, automated backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Invoicing And Payments, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Invoicing And Payments", "E Commerce", "BTCPay"]
 cover:
   image: images/cover.png
   caption: "Deploy BTCPay in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Portainer in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Portainer, a powerful container management tool. Save time, reduce costs, and enjoy seamless container orchestration with OctaByte's fully managed services."
 tags: [Deploy Portainer, Portainer deployment, managed Portainer services, OctaByte, container management, Docker management, managed open-source software, container orchestration, Portainer benefits, OctaByte Portainer]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Portainer"]
 cover:
   image: images/cover.png
   caption: "Deploy Portainer in Minutes with OctaByte.io"

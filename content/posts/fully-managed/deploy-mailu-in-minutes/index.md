@@ -4,7 +4,7 @@ title: "Deploy Mailu in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Mailu, a modern and secure email server solution. Save time, reduce costs, and enjoy hassle-free email hosting with OctaByte's fully managed services."
 tags: [Mailu deployment, managed email server, OctaByte, open-source email hosting, secure email server, managed Mailu, email server setup, automated SSL, email server backup, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Email]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Email", "Mailu"]
 cover:
   image: images/cover.png
   caption: "Deploy Mailu in Minutes with OctaByte.io"

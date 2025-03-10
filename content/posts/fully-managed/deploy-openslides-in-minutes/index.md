@@ -4,7 +4,7 @@ title: "Deploy OpenSlides in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OpenSlides, a powerful open-source tool for managing meetings and conferences. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [OpenSlides deployment, managed OpenSlides hosting, OctaByte, open-source meeting software, automated SSL management, cost-effective OpenSlides, OpenSlides support, OpenSlides backups, secure OpenSlides hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "OpenSlides"]
 cover:
   image: images/cover.png
   caption: "Deploy OpenSlides in Minutes with OctaByte.io"

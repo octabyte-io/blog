@@ -4,7 +4,7 @@ title: "Deploy Rallly in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Rallly—a powerful open-source scheduling tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Rallly, Rallly scheduling tool, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective deployment, open-source scheduling, Rallly benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Calendar]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Calendar", "Rallly"]
 cover:
   image: images/cover.png
   caption: "Deploy Rallly in Minutes with OctaByte.io"

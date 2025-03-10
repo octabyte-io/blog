@@ -4,7 +4,7 @@ title: "Deploy LibreChat in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying LibreChat effortless. Learn what LibreChat is, why it’s a game-changer for communication, and the benefits of using OctaByte’s fully managed services to get started in minutes."
 tags: [LibreChat, deploy LibreChat, OctaByte, managed open-source software, LibreChat benefits, open-source communication tools, managed hosting, automatic SSL, seamless deployment, cost-effective software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "LibreChat"]
 cover:
   image: images/cover.png
   caption: "Deploy LibreChat in Minutes with OctaByte.io"

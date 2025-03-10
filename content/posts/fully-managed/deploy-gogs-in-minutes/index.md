@@ -4,7 +4,7 @@ title: "Deploy Gogs in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Gogs, a lightweight and self-hosted Git service. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Deploy Gogs, Gogs hosting, managed Gogs service, OctaByte, self-hosted Git service, Gogs deployment, managed open-source software, Git server hosting, Gogs benefits, OctaByte Gogs]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gogs"]
 cover:
   image: images/cover.png
   caption: "Deploy Gogs in Minutes with OctaByte.io"

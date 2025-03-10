@@ -4,7 +4,7 @@ title: "Deploy Wger in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Wger, the open-source workout manager, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Wger, Wger workout manager, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective software deployment, open-source software hosting, Wger deployment, OctaByte benefits]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Wger"]
 cover:
   image: images/cover.png
   caption: "Deploy Wger in Minutes with OctaByte.io"

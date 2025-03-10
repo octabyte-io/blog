@@ -4,7 +4,7 @@ title: "Deploy Countly in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Countly, a powerful product analytics platform, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Countly, Countly analytics, managed Countly hosting, OctaByte, product analytics platform, open-source software hosting, managed open-source services, Countly deployment, Countly benefits, OctaByte Countly]
-categories: [Fully managed, Open Source Hosting, Applications, Business Intelligence]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Business Intelligence", "Countly"]
 cover:
   image: images/cover.png
   caption: "Deploy Countly in Minutes with OctaByte.io"

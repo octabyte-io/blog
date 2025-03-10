@@ -4,7 +4,7 @@ title: "Deploy Meilisearch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Meilisearch, a powerful open-source search engine. Learn why Meilisearch is a game-changer for fast and relevant search functionality, and how OctaByte.io’s fully managed services save you time, effort, and costs."
 tags: [Meilisearch deployment, managed Meilisearch, OctaByte, open-source search engine, fast search functionality, managed open-source software, Meilisearch hosting, affordable search solutions, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "Meilisearch"]
 cover:
   image: images/cover.png
   caption: "Deploy Meilisearch in Minutes with OctaByte.io"

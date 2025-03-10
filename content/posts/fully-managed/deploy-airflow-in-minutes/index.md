@@ -4,7 +4,7 @@ title: "Deploy Airflow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Apache Airflow, a powerful workflow automation tool. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all with just a few clicks."
 tags: [Deploy Airflow, Apache Airflow, Workflow Automation, Managed Airflow, OctaByte, Airflow Deployment, Airflow Hosting, Airflow Management, Open Source Software, Managed Services]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "Airflow"]
 cover:
   image: images/cover.png
   caption: "Deploy Airflow in Minutes with OctaByte.io"

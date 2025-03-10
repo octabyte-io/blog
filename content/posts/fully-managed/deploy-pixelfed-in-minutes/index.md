@@ -4,7 +4,7 @@ title: "Deploy Pixelfed in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Pixelfed, the open-source, privacy-focused alternative to Instagram, quick and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Pixelfed deployment, managed Pixelfed hosting, open-source social media, OctaByte, Pixelfed benefits, managed open-source software, secure Pixelfed hosting, Pixelfed setup, privacy-focused social media, OctaByte managed services]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "Pixelfed"]
 cover:
   image: images/cover.png
   caption: "Deploy Pixelfed in Minutes with OctaByte.io"

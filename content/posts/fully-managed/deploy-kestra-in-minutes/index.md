@@ -4,7 +4,7 @@ title: "Deploy Kestra in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Kestra, an open-source workflow orchestration tool. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Kestra deployment, workflow orchestration, open-source software, managed services, OctaByte, automate workflows, Kestra hosting, managed Kestra, cloud automation, IT infrastructure]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Kestra"]
 cover:
   image: images/cover.png
   caption: "Deploy Kestra in Minutes with OctaByte.io"

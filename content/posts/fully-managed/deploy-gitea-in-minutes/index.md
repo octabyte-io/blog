@@ -4,7 +4,7 @@ title: "Deploy Gitea in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Gitea, a powerful self-hosted Git service, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Gitea, Gitea hosting, managed Gitea, OctaByte, self-hosted Git service, open-source software hosting, managed open-source solutions, Gitea deployment, Gitea benefits, OctaByte Gitea]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gitea"]
 cover:
   image: images/cover.png
   caption: "Deploy Gitea in Minutes with OctaByte.io"

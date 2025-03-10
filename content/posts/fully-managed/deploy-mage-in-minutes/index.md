@@ -4,7 +4,7 @@ title: "Deploy Mage AI in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Mage AI, a powerful open-source machine learning platform. Learn why Mage AI is a game-changer for data science teams and how OctaByte's fully managed services save you time, money, and effort."
 tags: [Mage AI, deploy Mage AI, open-source machine learning, managed AI services, OctaByte, data science platform, AI deployment, managed open-source software, AI infrastructure, machine learning tools]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Mage AI"]
 cover:
   image: images/cover.png
   caption: "Deploy Mage AI in Minutes with OctaByte.io"

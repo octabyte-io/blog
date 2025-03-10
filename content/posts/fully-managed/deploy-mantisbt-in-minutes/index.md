@@ -4,7 +4,7 @@ title: "Deploy MantisBT in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MantisBT, a powerful open-source issue tracking system. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [MantisBT, OctaByte, issue tracking system, open-source software, managed services, deploy MantisBT, time-saving, cost-effective, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Applications, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Customer Support", "MantisBT"]
 cover:
   image: images/cover.png
   caption: "Deploy MantisBT in Minutes with OctaByte.io"

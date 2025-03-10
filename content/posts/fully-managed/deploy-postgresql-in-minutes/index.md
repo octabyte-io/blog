@@ -4,7 +4,7 @@ title: "Deploy PostgreSQL in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies PostgreSQL deployment with fully managed services. Save time, reduce costs, and enjoy seamless database management with automatic backups, SSL, and expert support."
 tags: [PostgreSQL deployment, managed PostgreSQL services, OctaByte, database management, open-source software, automatic backups, SSL management, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "PostgreSQL"]
 cover:
   image: images/cover.png
   caption: "Deploy PostgreSQL in Minutes with OctaByte.io"

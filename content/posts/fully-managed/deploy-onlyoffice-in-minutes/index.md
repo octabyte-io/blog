@@ -4,7 +4,7 @@ title: "Deploy OnlyOffice in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying OnlyOffice effortless. Learn what OnlyOffice is, why it’s a game-changer for document collaboration, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [OnlyOffice deployment, managed OnlyOffice hosting, OctaByte, open-source document collaboration, cloud-based office suite, managed open-source software, OnlyOffice benefits, secure document management, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "OnlyOffice"]
 cover:
   image: images/cover.png
   caption: "Deploy OnlyOffice in Minutes with OctaByte.io"

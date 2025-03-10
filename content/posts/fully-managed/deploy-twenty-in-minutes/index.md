@@ -4,7 +4,7 @@ title: "Deploy Twenty in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Twenty, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Twenty, OctaByte, open-source software, managed services, automatic backups, SSL management, cost-effective deployment, Twenty software, open-source deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "Twenty"]
 cover:
   image: images/cover.png
   caption: "Deploy Twenty in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Etherpad in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Etherpad—a powerful, open-source collaborative text editor—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Etherpad deployment, managed Etherpad hosting, OctaByte, collaborative text editor, open-source software hosting, managed open-source services, Etherpad benefits, secure Etherpad hosting, automatic backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Etherpad"]
 cover:
   image: images/cover.png
   caption: "Deploy Etherpad in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Hoppscotch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Hoppscotch, a powerful API testing tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Hoppscotch, Hoppscotch API testing, OctaByte, managed open-source software, API testing tool, automated backups, SSL management, cost-effective software deployment, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Hoppscotch"]
 cover:
   image: images/cover.png
   caption: "Deploy Hoppscotch in Minutes with OctaByte.io"

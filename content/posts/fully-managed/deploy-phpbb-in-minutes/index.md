@@ -4,7 +4,7 @@ title: "Deploy PhpBB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of PhpBB, the popular open-source forum software. Save time, reduce costs, and enjoy hassle-free hosting with our fully managed services."
 tags: [PhpBB deployment, managed PhpBB hosting, OctaByte, open-source forum software, PhpBB setup, managed hosting services, PhpBB benefits, secure forum hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "PhpBB"]
 cover:
   image: images/cover.png
   caption: "Deploy PhpBB in Minutes with OctaByte.io"

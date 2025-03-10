@@ -4,7 +4,7 @@ title: "Deploy Zabbix in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Zabbix, the powerful open-source monitoring solution. Save time, reduce costs, and enjoy seamless monitoring with OctaByte's fully managed services."
 tags: [Deploy Zabbix, Zabbix monitoring, OctaByte, managed Zabbix, open-source monitoring, Zabbix deployment, IT infrastructure monitoring, managed open-source services, OctaByte Zabbix, Zabbix hosting]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Zabbix"]
 ShowToc: true
 TocOpen: true
 ---

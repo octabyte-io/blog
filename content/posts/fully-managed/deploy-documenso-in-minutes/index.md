@@ -4,7 +4,7 @@ title: "Deploy Documenso in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Documenso, the open-source document signing solution, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Documenso, open-source document signing, deploy Documenso, OctaByte, managed open-source software, automatic backups, SSL management, cost-effective software deployment, managed IT services, document signing solution]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Documenso"]
 cover:
   image: images/cover.png
   caption: "Deploy Documenso in Minutes with OctaByte.io"

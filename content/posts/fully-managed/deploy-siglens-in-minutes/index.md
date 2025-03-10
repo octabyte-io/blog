@@ -4,7 +4,7 @@ title: "Deploy SigLens in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of SigLens, a powerful open-source observability tool, with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [SigLens deployment, managed SigLens, open-source observability, OctaByte, managed open-source software, SigLens benefits, observability tools, managed IT services, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "SigLens"]
 cover:
   image: images/cover.png
   caption: "Deploy SigLens in Minutes with OctaByte.io"

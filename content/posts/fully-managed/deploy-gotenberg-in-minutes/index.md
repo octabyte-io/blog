@@ -4,7 +4,7 @@ title: "Deploy Gotenberg in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Gotenberg, the powerful open-source document conversion API. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Gotenberg deployment, open-source document conversion, managed Gotenberg services, OctaByte, document conversion API, managed open-source software, automated backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Gotenberg"]
 cover:
   image: images/cover.png
   caption: "Deploy Gotenberg in Minutes with OctaByte.io"

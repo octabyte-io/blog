@@ -4,7 +4,7 @@ title: "Deploy Huginn in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Huginn—a powerful open-source automation tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Huginn deployment, Huginn automation, OctaByte, managed Huginn, open-source automation, deploy Huginn, Huginn benefits, managed open-source software, Huginn hosting, OctaByte Huginn]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "Huginn"]
 cover:
   image: images/cover.png
   caption: "Deploy Huginn in Minutes with OctaByte.io"

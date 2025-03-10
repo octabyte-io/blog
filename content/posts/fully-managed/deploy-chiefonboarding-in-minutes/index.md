@@ -4,7 +4,7 @@ title: "Deploy ChiefOnboarding in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ChiefOnboarding, a powerful open-source employee onboarding software. Save time, reduce costs, and enjoy seamless onboarding with OctaByte's fully managed services."
 tags: [ChiefOnboarding, OctaByte, employee onboarding software, open-source software deployment, managed services, time-saving, cost-effective, automatic backups, SSL management, IT support]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "ChiefOnboarding"]
 cover:
   image: images/cover.png
   caption: "Deploy ChiefOnboarding in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy SFTPGo in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of SFTPGo, a powerful open-source SFTP server. Learn why SFTPGo is essential for secure file transfers and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [SFTPGo, deploy SFTPGo, managed SFTP server, secure file transfer, OctaByte, open-source software deployment, managed hosting, SFTPGo benefits, automated backups, SSL management]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Storage]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Storage", "SFTPGo"]
 cover:
   image: images/cover.png
   caption: "Deploy SFTPGo in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Outline in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Outline, a powerful knowledge management tool, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Outline, Outline knowledge management, OctaByte, managed open-source software, Outline deployment, automatic backups, SSL management, cost-effective software solutions, fully managed services, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Outline"]
 cover:
   image: images/cover.png
   caption: "Deploy Outline in Minutes with OctaByte.io"

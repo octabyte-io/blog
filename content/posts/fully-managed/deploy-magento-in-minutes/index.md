@@ -4,7 +4,7 @@ title: "Deploy Magento in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Magento deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless performance. Let our experts handle the technical complexities while you focus on growing your e-commerce business."
 tags: [Magento deployment, managed Magento hosting, OctaByte, e-commerce solutions, Magento setup, managed open-source software, Magento hosting benefits, automated Magento deployment]
-categories: [Fully managed, Open Source Hosting, Applications, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "E Commerce", "Magento"]
 cover:
   image: images/cover.png
   caption: "Deploy Magento in Minutes with OctaByte.io"

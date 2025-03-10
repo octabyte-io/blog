@@ -4,7 +4,7 @@ title: "Deploy Zep in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Zep, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Zep, OctaByte, managed Zep deployment, open-source software hosting, Zep hosting, managed open-source services, Zep deployment benefits, OctaByte Zep hosting, Zep SSL management, Zep automatic backups]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Zep"]
 cover:
   image: images/cover.png
   caption: "Deploy Zep in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy MetaTrader5 in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MetaTrader5, the powerful trading platform. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [MetaTrader5 deployment, managed MetaTrader5 services, OctaByte, trading platform setup, automated backups, SSL management, cost-effective trading solutions, MetaTrader5 hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "MetaTrader5"]
 cover:
   image: images/cover.png
   caption: "Deploy MetaTrader5 in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Appwrite in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Appwrite, a powerful open-source backend server. Learn why Appwrite is a game-changer for developers and how OctaByte's fully managed services save you time, money, and effort."
 tags: [Appwrite deployment, managed Appwrite hosting, OctaByte, open-source backend server, Appwrite benefits, managed open-source software, Appwrite hosting, OctaByte Appwrite, Appwrite setup, Appwrite managed services]
-categories: [Fully managed, Open Source Hosting, Development, Backend As A Service, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Backend As A Service", "Nocode Lowcode", "Appwrite"]
 cover:
   image: images/cover.png
   caption: "Deploy Appwrite in Minutes with OctaByte.io"

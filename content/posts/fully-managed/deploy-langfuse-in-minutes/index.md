@@ -4,7 +4,7 @@ title: "Deploy Langfuse in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Langfuse—a powerful open-source tool for language model monitoring and analytics—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Langfuse deployment, open-source software management, OctaByte, language model monitoring, managed open-source services, automatic backups, SSL management, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Langfuse"]
 cover:
   image: images/cover.png
   caption: "Deploy Langfuse in Minutes with OctaByte.io"

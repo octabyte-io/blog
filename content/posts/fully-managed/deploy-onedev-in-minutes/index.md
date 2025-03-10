@@ -4,7 +4,7 @@ title: "Deploy Onedev in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of OneDev, a powerful open-source DevOps platform. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Deploy OneDev, OneDev hosting, managed OneDev services, OctaByte, open-source DevOps, OneDev deployment, managed DevOps platform, OneDev automation, OneDev backups, OneDev SSL management]
-categories: [Fully managed, Open Source Hosting, Development, Dev Tools]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Tools", "Onedev"]
 cover:
   image: images/cover.png
   caption: "Deploy Onedev in Minutes with OctaByte.io"

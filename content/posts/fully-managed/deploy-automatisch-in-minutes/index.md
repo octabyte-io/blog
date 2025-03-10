@@ -4,7 +4,7 @@ title: "Deploy Automatisch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Automatisch—a powerful open-source workflow automation tool—effortless and efficient. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Automatisch deployment, open-source workflow automation, managed open-source services, OctaByte, Automatisch benefits, workflow automation tools, managed IT services, cost-effective automation, SSL management, automatic backups]
-categories: [Fully managed, Open Source Hosting, Applications, Automation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Automation", "Automatisch"]
 cover:
   image: images/cover.png
   caption: "Deploy Automatisch in Minutes with OctaByte.io"

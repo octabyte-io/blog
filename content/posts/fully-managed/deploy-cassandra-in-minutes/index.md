@@ -4,7 +4,7 @@ title: "Deploy Cassandra in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Apache Cassandra, a powerful NoSQL database, saving you time, effort, and resources. Learn why Cassandra is essential for scalable applications and how OctaByte's fully managed services make it easier than ever to get started."
 tags: [Deploy Cassandra, Apache Cassandra, NoSQL database, managed Cassandra services, OctaByte, scalable database solutions, managed open-source software, automated backups, SSL management, database deployment]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "Cassandra"]
 cover:
   image: images/cover.png
   caption: "Deploy Cassandra in Minutes with OctaByte.io"

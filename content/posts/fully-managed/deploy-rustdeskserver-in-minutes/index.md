@@ -4,7 +4,7 @@ title: "Deploy RustdeskServer in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of RustDesk Server, a powerful open-source remote desktop solution. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [RustDesk Server, deploy RustDesk, managed RustDesk, open-source remote desktop, OctaByte, managed open-source software, RustDesk hosting, secure remote access, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Network]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "RustdeskServer"]
 cover:
   image: images/cover.png
   caption: "Deploy RustdeskServer in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Neko Rooms in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Neko Rooms effortless. Learn what Neko Rooms is, why it’s useful, and the benefits of using OctaByte’s fully managed services to get started in minutes."
 tags: [Neko Rooms, deploy Neko Rooms, OctaByte, managed open-source software, Neko Rooms deployment, managed hosting, open-source software hosting, time-saving deployment, cost-effective hosting, SSL management, automatic backups, open-source support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Neko Rooms"]
 cover:
   image: images/cover.png
   caption: "Deploy Neko Rooms in Minutes with OctaByte.io"

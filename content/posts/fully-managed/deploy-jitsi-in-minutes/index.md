@@ -4,7 +4,7 @@ title: "Deploy Jitsi in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Jitsi, the open-source video conferencing solution, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Jitsi, Jitsi video conferencing, OctaByte, managed Jitsi hosting, open-source video conferencing, Jitsi deployment, managed open-source software, secure video conferencing, automatic SSL management, Jitsi backups]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Jitsi"]
 cover:
   image: images/cover.png
   caption: "Deploy Jitsi in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Trilium in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Trilium, a powerful open-source note-taking and knowledge management tool. Learn why Trilium is a game-changer for organizing your ideas and how OctaByte's fully managed services make it effortless to get started."
 tags: [Trilium deployment, OctaByte, managed Trilium hosting, open-source note-taking, knowledge management, managed open-source software, Trilium benefits, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Trilium"]
 cover:
   image: images/cover.png
   caption: "Deploy Trilium in Minutes with OctaByte.io"

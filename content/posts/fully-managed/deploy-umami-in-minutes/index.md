@@ -4,7 +4,7 @@ title: "Deploy Umami in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Umami, the lightweight and privacy-focused analytics platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Umami, Umami analytics, OctaByte, managed Umami, open-source analytics, privacy-focused analytics, managed open-source software, automatic backups, SSL management, cost-effective analytics]
-categories: [Fully managed, Open Source Hosting, Applications, Analytics]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Analytics", "Umami"]
 cover:
   image: images/cover.png
   caption: "Deploy Umami in Minutes with OctaByte.io"

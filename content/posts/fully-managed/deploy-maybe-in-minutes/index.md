@@ -4,7 +4,7 @@ title: "Deploy Maybe in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Maybe, the open-source financial management tool, effortless. Save time, reduce costs, and enjoy seamless management with our fully managed services."
 tags: [Deploy Maybe, OctaByte, open-source financial management, managed services, time-saving, cost-effective, automatic backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Maybe"]
 cover:
   image: images/cover.png
   caption: "Deploy Maybe in Minutes with OctaByte.io"

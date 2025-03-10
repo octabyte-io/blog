@@ -4,7 +4,7 @@ title: "Deploy MSSQL in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies MSSQL deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless database management. Learn why MSSQL is a powerful tool and how OctaByte makes it accessible for businesses of all sizes."
 tags: [MSSQL deployment, managed MSSQL services, OctaByte, database management, SQL Server, cloud database, managed IT services, automated backups, SSL management, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "MSSQL"]
 cover:
   image: images/cover.png
   caption: "Deploy MSSQL in Minutes with OctaByte.io"

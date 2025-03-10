@@ -4,7 +4,7 @@ title: "Deploy Pritunl in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Pritunl, a powerful open-source VPN solution. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Pritunl deployment, managed Pritunl service, OctaByte, open-source VPN, secure VPN solution, managed open-source software, automatic SSL management, cost-effective VPN, expert support for Pritunl]
-categories: [Fully managed, Open Source Hosting, Development, Network]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "Pritunl"]
 cover:
   image: images/cover.png
   caption: "Deploy Pritunl in Minutes with OctaByte.io"

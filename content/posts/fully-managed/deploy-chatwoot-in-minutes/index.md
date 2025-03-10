@@ -4,7 +4,7 @@ title: "Deploy Chatwoot in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Chatwoot—a powerful open-source customer support platform—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Chatwoot, Chatwoot deployment, OctaByte, managed Chatwoot, open-source customer support, Chatwoot benefits, managed open-source software, Chatwoot hosting, customer support platform, OctaByte services]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Chatwoot"]
 cover:
   image: images/cover.png
   caption: "Deploy Chatwoot in Minutes with OctaByte.io"

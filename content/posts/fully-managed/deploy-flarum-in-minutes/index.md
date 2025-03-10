@@ -4,7 +4,7 @@ title: "Deploy Flarum in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Flarum, a modern and extensible forum software, quick and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Flarum, Flarum hosting, managed Flarum, OctaByte, open-source forum software, Flarum deployment, managed open-source services, Flarum benefits, Flarum setup, Flarum support]
-categories: [Fully managed, Open Source Hosting, Applications, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Forum Community", "Flarum"]
 cover:
   image: images/cover.png
   caption: "Deploy Flarum in Minutes with OctaByte.io"

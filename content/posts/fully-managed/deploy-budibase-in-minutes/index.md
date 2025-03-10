@@ -4,7 +4,7 @@ title: "Deploy Budibase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Budibase, a powerful open-source low-code platform. Save time, reduce costs, and enjoy seamless automation with OctaByte's fully managed services."
 tags: [Budibase deployment, OctaByte, managed Budibase hosting, low-code platform, open-source software, managed IT services, automated backups, SSL management, cost-effective software solutions]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Budibase"]
 cover:
   image: images/cover.png
   caption: "Deploy Budibase in Minutes with OctaByte.io"

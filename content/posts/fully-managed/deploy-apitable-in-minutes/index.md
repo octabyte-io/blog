@@ -4,7 +4,7 @@ title: "Deploy APITable in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying APITable, a powerful open-source API management platform, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [APITable deployment, OctaByte, open-source API management, managed APITable hosting, cost-effective API solutions, automatic backups, SSL management, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "APITable"]
 cover:
   image: images/cover.png
   caption: "Deploy APITable in Minutes with OctaByte.io"

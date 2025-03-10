@@ -4,7 +4,7 @@ title: "Deploy Firefish in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Firefish, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Firefish deployment, OctaByte, managed open-source software, Firefish benefits, automatic backups, SSL management, cost-effective software hosting, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Firefish"]
 cover:
   image: images/cover.png
   caption: "Deploy Firefish in Minutes with OctaByte.io"

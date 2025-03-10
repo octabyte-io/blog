@@ -4,7 +4,7 @@ title: "Deploy Ghost in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Ghost, the powerful open-source publishing platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Ghost, Ghost CMS, OctaByte, managed Ghost hosting, open-source software deployment, Ghost blog setup, managed Ghost services, Ghost CMS benefits, OctaByte Ghost hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Ghost"]
 cover:
   image: images/cover.png
   caption: "Deploy Ghost in Minutes with OctaByte.io"

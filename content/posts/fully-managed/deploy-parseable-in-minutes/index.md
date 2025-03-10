@@ -4,7 +4,7 @@ title: "Deploy Parseable in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Parseable, a powerful open-source log analytics platform. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Parseable deployment, OctaByte, managed log analytics, open-source log management, Parseable benefits, managed Parseable hosting, log analytics platform, OctaByte Parseable, Parseable setup, managed open-source services]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Parseable"]
 cover:
   image: images/cover.png
   caption: "Deploy Parseable in Minutes with OctaByte.io"

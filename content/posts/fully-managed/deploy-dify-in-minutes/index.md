@@ -4,7 +4,7 @@ title: "Deploy Dify in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Dify, the open-source software, effortless and hassle-free. Learn about Dify's capabilities, its benefits, and why OctaByte is the ideal platform for seamless deployment and management."
 tags: [Deploy Dify, OctaByte, managed Dify hosting, open-source software deployment, Dify benefits, managed open-source services, Dify deployment made easy, OctaByte Dify hosting, Dify on VM, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Dify"]
 cover:
   image: images/cover.png
   caption: "Deploy Dify in Minutes with OctaByte.io"

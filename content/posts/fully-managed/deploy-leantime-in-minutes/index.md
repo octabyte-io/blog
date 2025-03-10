@@ -4,7 +4,7 @@ title: "Deploy Leantime in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Leantime, a powerful open-source project management tool, quick and effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Leantime deployment, managed Leantime hosting, OctaByte, open-source project management, managed open-source services, Leantime benefits, automated backups, SSL management, cost-effective project management]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "Leantime"]
 cover:
   image: images/cover.png
   caption: "Deploy Leantime in Minutes with OctaByte.io"

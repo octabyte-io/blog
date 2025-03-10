@@ -4,7 +4,7 @@ title: "Deploy Fider in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Fider, the open-source feedback management tool, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Fider, Fider deployment, OctaByte, open-source feedback tool, managed Fider hosting, Fider benefits, Fider setup, Fider management, OctaByte services, Fider SSL, Fider backups, Fider support]
-categories: [Fully managed, Open Source Hosting, Applications, Product Feedback, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Product Feedback", "Customer Support", "Fider"]
 cover:
   image: images/cover.png
   caption: "Deploy Fider in Minutes with OctaByte.io"

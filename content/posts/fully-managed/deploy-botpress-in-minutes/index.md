@@ -4,7 +4,7 @@ title: "Deploy Botpress in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Botpress, a powerful open-source conversational AI platform. Save time, reduce costs, and enjoy seamless automation with our fully managed services."
 tags: [Deploy Botpress, Botpress hosting, managed Botpress services, OctaByte, open-source chatbot platform, conversational AI deployment, automated Botpress setup, managed open-source software, Botpress benefits, secure Botpress hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat, Customer Support]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "Customer Support", "Botpress"]
 cover:
   image: images/cover.png
   caption: "Deploy Botpress in Minutes with OctaByte.io"

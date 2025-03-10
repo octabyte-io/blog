@@ -4,7 +4,7 @@ title: "Deploy Traduora in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing Traduora, the open-source translation management platform, effortless. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Traduora deployment, open-source translation management, OctaByte, managed open-source software, Traduora hosting, translation platform, automatic backups, SSL management, cost-effective software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Traduora"]
 cover:
   image: images/cover.png
   caption: "Deploy Traduora in Minutes with OctaByte.io"

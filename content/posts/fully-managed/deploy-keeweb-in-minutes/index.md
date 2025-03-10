@@ -4,7 +4,7 @@ title: "Deploy KeeWeb in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying KeeWeb, a powerful open-source password manager, quick and hassle-free. Enjoy seamless setup, automatic backups, SSL management, and expert support—all in one place."
 tags: [KeeWeb deployment, OctaByte, password manager, open-source software, managed services, automatic backups, SSL management, IT solutions, cost-effective software deployment]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "KeeWeb"]
 cover:
   image: images/cover.png
   caption: "Deploy KeeWeb in Minutes with OctaByte.io"

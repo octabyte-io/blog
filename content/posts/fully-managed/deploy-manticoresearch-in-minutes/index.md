@@ -4,7 +4,7 @@ title: "Deploy ManticoreSearch in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of ManticoreSearch, a powerful open-source search engine. Save time, reduce costs, and enjoy seamless scalability with our fully managed services."
 tags: [ManticoreSearch, deploy ManticoreSearch, managed ManticoreSearch, OctaByte, open-source search engine, managed open-source software, scalable search solutions, cost-effective search deployment, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Applications, Search]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Search", "ManticoreSearch"]
 cover:
   image: images/cover.png
   caption: "Deploy ManticoreSearch in Minutes with OctaByte.io"

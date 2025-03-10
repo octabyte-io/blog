@@ -4,7 +4,7 @@ title: "Deploy Kanboard in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Kanboard, a powerful open-source project management tool. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Kanboard deployment, open-source project management, OctaByte, managed Kanboard, Kanboard hosting, automatic backups, SSL management, cost-effective Kanboard, Kanboard support]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "Kanboard"]
 cover:
   image: images/cover.png
   caption: "Deploy Kanboard in Minutes with OctaByte.io"

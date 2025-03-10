@@ -4,7 +4,7 @@ title: "Deploy Qdrant in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Qdrant, a powerful vector search engine. Learn why Qdrant is essential for modern AI applications and how OctaByte's fully managed services save you time, money, and effort."
 tags: [Qdrant deployment, managed Qdrant services, vector search engine, OctaByte, AI applications, open-source software management, time-saving solutions, cost-effective IT solutions, automatic backups, SSL management, expert support]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Qdrant"]
 cover:
   image: images/cover.png
   caption: "Deploy Qdrant in Minutes with OctaByte.io"

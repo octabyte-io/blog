@@ -4,7 +4,7 @@ title: "Deploy Joomla in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Joomla deployment with fully managed services. Save time, reduce costs, and enjoy hassle-free Joomla hosting with automatic backups, SSL management, and expert support."
 tags: [Joomla deployment, managed Joomla hosting, OctaByte, Joomla hosting services, Joomla CMS, managed open-source software, Joomla setup, Joomla benefits, Joomla SSL management, Joomla backups]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Joomla"]
 cover:
   image: images/cover.png
   caption: "Deploy Joomla in Minutes with OctaByte.io"

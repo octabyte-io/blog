@@ -4,7 +4,7 @@ title: "Deploy Loki in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Loki, a powerful log aggregation system. Save time, reduce costs, and enjoy seamless log management with OctaByte's fully managed services."
 tags: [Loki deployment, log aggregation, managed Loki services, OctaByte, open-source software, log management, cost-effective solutions, automated backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "Loki"]
 cover:
   image: images/cover.png
   caption: "Deploy Loki in Minutes with OctaByte.io"

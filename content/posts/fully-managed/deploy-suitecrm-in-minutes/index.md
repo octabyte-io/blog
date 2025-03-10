@@ -4,7 +4,7 @@ title: "Deploy SuiteCRM in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of SuiteCRM, a powerful open-source CRM solution. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [SuiteCRM, OctaByte, open-source CRM, managed CRM services, deploy SuiteCRM, SuiteCRM hosting, SuiteCRM deployment, SuiteCRM benefits, OctaByte SuiteCRM, SuiteCRM support]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "SuiteCRM"]
 cover:
   image: images/cover.png
   caption: "Deploy SuiteCRM in Minutes with OctaByte.io"

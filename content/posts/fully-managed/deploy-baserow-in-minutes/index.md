@@ -4,7 +4,7 @@ title: "Deploy Baserow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of Baserow, an open-source no-code database tool. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Baserow, Baserow hosting, no-code database, open-source database, managed Baserow, OctaByte, Baserow deployment, no-code tools, open-source software hosting, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Baserow"]
 cover:
   image: images/cover.png
   caption: "Deploy Baserow in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Centrifugo in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Centrifugo, a powerful real-time messaging server. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Centrifugo deployment, managed Centrifugo, real-time messaging server, OctaByte, open-source software hosting, managed open-source services, Centrifugo benefits, SSL management, automatic backups, cost-effective hosting]
-categories: [Fully managed, Open Source Hosting, Development, Network, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Network", "Dev Ops", "Centrifugo"]
 cover:
   image: images/cover.png
   caption: "Deploy Centrifugo in Minutes with OctaByte.io"

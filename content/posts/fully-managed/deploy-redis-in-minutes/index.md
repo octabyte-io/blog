@@ -4,7 +4,7 @@ title: "Deploy Redis in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Redis deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless performance. Learn why Redis is a game-changer for your applications and how OctaByte makes it effortless to deploy and manage."
 tags: [Redis deployment, managed Redis, OctaByte, Redis benefits, Redis hosting, Redis management, open-source software, managed services, Redis performance, Redis scalability]
-categories: [Fully managed, Open Source Hosting, Databases, Nosql, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Nosql", "Specialized Databases", "Redis"]
 cover:
   image: images/cover.png
   caption: "Deploy Redis in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy ErpNext in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies ERPNext deployment, offering a fully managed, hassle-free solution for businesses. Save time, reduce costs, and enjoy seamless ERPNext management with OctaByte's expert services."
 tags: [ERPNext deployment, managed ERPNext, OctaByte, open-source ERP, ERPNext hosting, ERPNext management, cost-effective ERP, automated backups, SSL management, ERPNext support]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "ErpNext"]
 cover:
   image: images/cover.png
   caption: "Deploy ErpNext in Minutes with OctaByte.io"

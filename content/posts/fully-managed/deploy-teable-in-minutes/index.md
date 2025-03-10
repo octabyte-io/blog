@@ -4,7 +4,7 @@ title: "Deploy Teable in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Teable, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Teable, OctaByte, managed open-source software, Teable deployment, automatic backups, SSL management, cost-effective software solutions, open-source software hosting, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Teable"]
 cover:
   image: images/cover.png
   caption: "Deploy Teable in Minutes with OctaByte.io"

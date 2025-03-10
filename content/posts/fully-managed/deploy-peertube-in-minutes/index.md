@@ -4,7 +4,7 @@ title: "Deploy PeerTube in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying PeerTube, a decentralized video hosting platform, quick and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [PeerTube deployment, decentralized video hosting, managed PeerTube, OctaByte, open-source software hosting, PeerTube benefits, managed open-source services, PeerTube setup, video hosting solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Fediverse]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Fediverse", "PeerTube"]
 cover:
   image: images/cover.png
   caption: "Deploy PeerTube in Minutes with OctaByte.io"

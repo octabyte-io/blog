@@ -4,7 +4,7 @@ title: "Deploy ClickHouse in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies ClickHouse deployment with fully managed services. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [ClickHouse deployment, managed ClickHouse services, OctaByte, open-source database, ClickHouse hosting, managed database services, ClickHouse benefits, OctaByte ClickHouse]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "Specialized Databases", "ClickHouse"]
 cover:
   image: images/cover.png
   caption: "Deploy ClickHouse in Minutes with OctaByte.io"

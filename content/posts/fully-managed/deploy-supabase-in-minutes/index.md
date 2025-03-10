@@ -4,7 +4,7 @@ title: "Deploy Supabase in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Supabase deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless SSL management, automatic backups, and expert support. Say goodbye to the complexities of deploying and maintaining Supabase—OctaByte has you covered."
 tags: [Supabase deployment, managed Supabase, OctaByte, open-source software hosting, Supabase hosting, managed database hosting, Supabase benefits, cost-effective Supabase, SSL management, automatic backups, Supabase support]
-categories: [Fully managed, Open Source Hosting, Development, Backend As A Service]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Backend As A Service", "Supabase"]
 cover:
   image: images/cover.png
   caption: "Deploy Supabase in Minutes with OctaByte.io"

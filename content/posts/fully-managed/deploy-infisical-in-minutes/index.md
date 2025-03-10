@@ -4,7 +4,7 @@ title: "Deploy Infisical in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Infisical, an open-source secret management tool. Save time, reduce costs, and ensure secure, hassle-free operations with OctaByte's fully managed services."
 tags: [Infisical deployment, OctaByte, open-source secret management, managed Infisical, secure secret management, Infisical hosting, OctaByte managed services, Infisical setup, Infisical benefits, Infisical SSL management]
-categories: [Fully managed, Open Source Hosting, Applications, Password Manager]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Password Manager", "Infisical"]
 cover:
   image: images/cover.png
   caption: "Deploy Infisical in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Docmost in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Docmost—a powerful documentation and knowledge management tool—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Docmost, OctaByte, managed Docmost hosting, knowledge management tool, documentation software, open-source software hosting, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Docmost"]
 cover:
   image: images/cover.png
   caption: "Deploy Docmost in Minutes with OctaByte.io"

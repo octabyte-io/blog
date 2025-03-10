@@ -4,7 +4,7 @@ title: "Deploy Cal in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Cal, the open-source scheduling tool. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [deploy Cal, Cal scheduling tool, open-source scheduling, OctaByte, managed Cal deployment, Cal benefits, Cal deployment service, open-source software management]
-categories: [Fully managed, Open Source Hosting, Applications, Calendar]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Calendar", "Cal"]
 cover:
   image: images/cover.png
   caption: "Deploy Cal in Minutes with OctaByte.io"

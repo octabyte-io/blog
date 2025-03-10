@@ -4,7 +4,7 @@ title: "Deploy Answer in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying **Answer**, the open-source Q&A platform, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Answer, OctaByte, open-source Q&A platform, managed Answer deployment, Answer software, automatic backups, SSL management, cost-effective Answer hosting, Answer support, open-source software hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation, Forum Community]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "Forum Community", "Answer"]
 cover:
   image: images/cover.png
   caption: "Deploy Answer in Minutes with OctaByte.io"

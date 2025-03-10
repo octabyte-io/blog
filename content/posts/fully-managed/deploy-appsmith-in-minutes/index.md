@@ -4,7 +4,7 @@ title: "Deploy Appsmith in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Appsmith, a powerful open-source low-code platform, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Appsmith, OctaByte, managed Appsmith hosting, low-code platform, open-source software, automatic backups, SSL management, cost-effective Appsmith deployment, managed open-source services]
-categories: [Fully managed, Open Source Hosting, Development, Nocode Lowcode]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Nocode Lowcode", "Appsmith"]
 cover:
   image: images/cover.png
   caption: "Deploy Appsmith in Minutes with OctaByte.io"

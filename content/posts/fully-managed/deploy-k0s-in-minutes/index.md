@@ -4,7 +4,7 @@ title: "Deploy k0s in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of k0s, a lightweight Kubernetes distribution, saving you time, effort, and resources. Learn why k0s is a game-changer for container orchestration and how OctaByte's fully managed services make it even better."
 tags: [k0s deployment, Kubernetes with OctaByte, managed Kubernetes services, lightweight Kubernetes, container orchestration, OctaByte, k0s benefits, managed open-source software, Kubernetes made easy]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "k0s"]
 ShowToc: true
 TocOpen: true
 ---

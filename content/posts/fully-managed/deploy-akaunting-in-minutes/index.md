@@ -4,7 +4,7 @@ title: "Deploy Akaunting in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Akaunting, the open-source accounting software. Save time, reduce costs, and enjoy seamless integration with OctaByte's fully managed services."
 tags: [Akaunting deployment, open-source accounting software, managed Akaunting hosting, OctaByte, cloud accounting solutions, automated backups, SSL management, cost-effective accounting software, Akaunting support]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Akaunting"]
 cover:
   image: images/cover.png
   caption: "Deploy Akaunting in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Grist in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Grist, a powerful open-source spreadsheet and database tool. Save time, reduce costs, and enjoy seamless technical support with OctaByte's fully managed services."
 tags: [Deploy Grist, Grist deployment, OctaByte, managed Grist hosting, open-source spreadsheet, database tool, managed open-source software, Grist benefits, OctaByte services, Grist deployment made easy]
-categories: [Fully managed, Open Source Hosting, Applications, Others]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Others", "Grist"]
 cover:
   image: images/cover.png
   caption: "Deploy Grist in Minutes with OctaByte.io"

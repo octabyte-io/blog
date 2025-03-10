@@ -4,7 +4,7 @@ title: "Deploy Authentik in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Authentik, a powerful open-source identity provider. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [Authentik deployment, OctaByte, open-source identity provider, managed Authentik, secure authentication, SSL management, automatic backups, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Development, Identity And Access Management]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Identity And Access Management", "Authentik"]
 cover:
   image: images/cover.png
   caption: "Deploy Authentik in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy AgencyOS in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying AgencyOS effortless. Learn what AgencyOS is, why it’s a game-changer for agencies, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [AgencyOS, deploy AgencyOS, managed AgencyOS, OctaByte, open-source software deployment, managed hosting, agency management tools, cost-effective software solutions, automated backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "AgencyOS"]
 cover:
   image: images/cover.png
   caption: "Deploy AgencyOS in Minutes with OctaByte.io"

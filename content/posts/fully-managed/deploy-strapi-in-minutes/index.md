@@ -4,7 +4,7 @@ title: "Deploy Strapi in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies Strapi deployment, offering a fully managed solution that saves time, reduces costs, and ensures seamless SSL management, automatic backups, and expert support. Deploy Strapi effortlessly and focus on building your application."
 tags: [Deploy Strapi, Strapi hosting, managed Strapi services, OctaByte, Strapi deployment, open-source CMS, managed open-source software, Strapi benefits, Strapi SSL management, Strapi backups, Strapi support]
-categories: [Fully managed, Open Source Hosting, Applications, Cms]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Cms", "Strapi"]
 cover:
   image: images/cover.png
   caption: "Deploy Strapi in Minutes with OctaByte.io"

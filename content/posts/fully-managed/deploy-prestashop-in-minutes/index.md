@@ -4,7 +4,7 @@ title: "Deploy Prestashop in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies PrestaShop deployment with fully managed services. Save time, reduce costs, and enjoy seamless SSL, automatic backups, and expert support—all in one place."
 tags: [PrestaShop deployment, managed PrestaShop hosting, OctaByte, open-source eCommerce, PrestaShop hosting, managed open-source software, PrestaShop setup, eCommerce solutions, PrestaShop benefits, OctaByte PrestaShop]
-categories: [Fully managed, Open Source Hosting, Applications, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "E Commerce", "Prestashop"]
 cover:
   image: images/cover.png
   caption: "Deploy Prestashop in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Llana in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Llana, a powerful open-source software, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Llana, Llana open-source software, OctaByte, managed Llana deployment, open-source software hosting, automatic backups, SSL management, cost-effective software deployment, managed IT services, Llana benefits]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "Llana"]
 cover:
   image: images/cover.png
   caption: "Deploy Llana in Minutes with OctaByte.io"

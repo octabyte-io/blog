@@ -4,7 +4,7 @@ title: "Deploy LibreTranslate in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying LibreTranslate effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [LibreTranslate, OctaByte, deploy LibreTranslate, managed open-source software, automatic backups, SSL management, cost-effective translation, open-source translation tool]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "LibreTranslate"]
 cover:
   image: images/cover.png
   caption: "Deploy LibreTranslate in Minutes with OctaByte.io"

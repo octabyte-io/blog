@@ -4,7 +4,7 @@ title: "Deploy Squid in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying Squid, the powerful open-source proxy server, effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [Deploy Squid, Squid proxy server, OctaByte, managed Squid deployment, open-source software, proxy server benefits, Squid deployment made easy, managed IT services, automatic backups, SSL management, cost-effective IT solutions]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Infrastructure]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Infrastructure", "Squid"]
 cover:
   image: images/cover.png
   caption: "Deploy Squid in Minutes with OctaByte.io"

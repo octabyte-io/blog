@@ -4,7 +4,7 @@ title: "Deploy EspoCRM in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment of EspoCRM, a powerful open-source CRM solution. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [EspoCRM deployment, open-source CRM, OctaByte, managed CRM services, EspoCRM hosting, automated backups, SSL management, cost-effective CRM, EspoCRM support]
-categories: [Fully managed, Open Source Hosting, Applications, Crm Erp]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Crm Erp", "EspoCRM"]
 cover:
   image: images/cover.png
   caption: "Deploy EspoCRM in Minutes with OctaByte.io"

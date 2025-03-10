@@ -4,7 +4,7 @@ title: "Deploy nopCommerce in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying and managing nopCommerce effortless. Save time, reduce costs, and enjoy a fully managed eCommerce solution with automatic backups, SSL management, and expert support."
 tags: [nopCommerce, deploy nopCommerce, managed nopCommerce, OctaByte, eCommerce platform, open-source eCommerce, managed hosting, automatic backups, SSL management, cost-effective eCommerce]
-categories: [Fully managed, Open Source Hosting, Applications, E Commerce]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "E Commerce", "nopCommerce"]
 cover:
   image: images/cover.png
   caption: "Deploy nopCommerce in Minutes with OctaByte.io"

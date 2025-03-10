@@ -4,7 +4,7 @@ title: "Deploy KrakenD in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of KrakenD, a high-performance API gateway. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [KrakenD deployment, OctaByte, managed API gateway, API gateway hosting, KrakenD benefits, managed open-source software, API gateway solutions, KrakenD setup, OctaByte managed services]
-categories: [Fully managed, Open Source Hosting, Development, Others]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Others", "KrakenD"]
 cover:
   image: images/cover.png
   caption: "Deploy KrakenD in Minutes with OctaByte.io"

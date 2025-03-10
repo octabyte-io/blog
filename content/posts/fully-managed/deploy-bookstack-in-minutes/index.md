@@ -4,7 +4,7 @@ title: "Deploy BookStack in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying BookStack, a powerful open-source knowledge management platform, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [BookStack deployment, managed BookStack hosting, OctaByte, open-source knowledge management, managed open-source software, BookStack benefits, automatic backups, SSL management, cost-effective BookStack hosting]
-categories: [Fully managed, Open Source Hosting, Applications, Documentation]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Documentation", "BookStack"]
 cover:
   image: images/cover.png
   caption: "Deploy BookStack in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy Postal in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Postal, the open-source email delivery platform. Save time, reduce costs, and enjoy seamless SSL management, automatic backups, and expert support—all in one place."
 tags: [Deploy Postal, OctaByte, open-source email delivery, managed Postal hosting, email delivery platform, automatic backups, SSL management, cost-effective hosting, managed open-source software]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "Postal"]
 cover:
   image: images/cover.png
   caption: "Deploy Postal in Minutes with OctaByte.io"

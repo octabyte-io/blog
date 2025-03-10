@@ -4,7 +4,7 @@ title: "Deploy TimescaleDB in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of TimescaleDB, a powerful time-series database, saving you time, effort, and resources. Learn why TimescaleDB is a game-changer for handling time-series data and how OctaByte’s fully managed services make it easier than ever to get started."
 tags: [TimescaleDB, OctaByte, time-series database, managed database services, deploy TimescaleDB, open-source software, managed IT services, database management, automated backups, SSL management, cost-effective database solutions]
-categories: [Fully managed, Open Source Hosting, Databases, Relational Databases, Specialized Databases]
+categories: ["Fully managed", "Open Source Hosting", "Databases", "Relational Databases", "Specialized Databases", "TimescaleDB"]
 cover:
   image: images/cover.png
   caption: "Deploy TimescaleDB in Minutes with OctaByte.io"

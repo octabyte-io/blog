@@ -4,7 +4,7 @@ title: "Deploy EasyAppointments in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of EasyAppointments, a powerful open-source scheduling software. Save time, reduce costs, and enjoy hassle-free technical support with OctaByte's fully managed services."
 tags: [EasyAppointments, OctaByte, open-source scheduling software, managed services, deploy EasyAppointments, time-saving, cost-effective, automatic backups, SSL management, technical support]
-categories: [Fully managed, Open Source Hosting, Applications, Calendar]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Calendar", "EasyAppointments"]
 cover:
   image: images/cover.png
   caption: "Deploy EasyAppointments in Minutes with OctaByte.io"

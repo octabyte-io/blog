@@ -4,7 +4,7 @@ title: "Deploy MailCow in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of MailCow, a powerful open-source email server solution. Save time, reduce costs, and enjoy seamless email management with OctaByte's fully managed services."
 tags: [MailCow deployment, managed MailCow hosting, open-source email server, OctaByte, email server management, cost-effective email hosting, secure email solutions, managed IT services]
-categories: [Fully managed, Open Source Hosting, Development, Dev Ops]
+categories: ["Fully managed", "Open Source Hosting", "Development", "Dev Ops", "MailCow"]
 cover:
   image: images/cover.png
   caption: "Deploy MailCow in Minutes with OctaByte.io"

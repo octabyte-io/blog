@@ -4,7 +4,7 @@ title: "Deploy HortusFox in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying HortusFox, a powerful open-source software, quick and effortless. Learn about its benefits, why it’s useful, and how OctaByte’s fully managed services save you time, money, and effort."
 tags: [HortusFox, OctaByte, deploy HortusFox, managed open-source software, time-saving deployment, cost-effective software hosting, automatic backups, SSL management, open-source software support]
-categories: [Fully managed, Open Source Hosting, Hosting and Infrastructure, Monitoring]
+categories: ["Fully managed", "Open Source Hosting", "Hosting and Infrastructure", "Monitoring", "HortusFox"]
 cover:
   image: images/cover.png
   caption: "Deploy HortusFox in Minutes with OctaByte.io"

@@ -4,7 +4,7 @@ title: "Deploy AppFlowy in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying AppFlowy—a powerful open-source alternative to Notion—effortless. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [AppFlowy, deploy AppFlowy, open-source Notion alternative, OctaByte, managed open-source software, AppFlowy deployment, time-saving software solutions, cost-effective software hosting, automatic backups, SSL management, open-source software support]
-categories: [Fully managed, Open Source Hosting, Applications, Note Taking, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Note Taking", "Project Management", "AppFlowy"]
 cover:
   image: images/cover.png
   caption: "Deploy AppFlowy in Minutes with OctaByte.io"

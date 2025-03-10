@@ -4,7 +4,7 @@ title: "Deploy MiroTalk in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io makes deploying MiroTalk, a powerful open-source video conferencing solution, effortless and hassle-free. Save time, reduce costs, and enjoy fully managed services with automatic backups, SSL management, and expert support."
 tags: [MiroTalk deployment, OctaByte, open-source video conferencing, managed open-source software, MiroTalk benefits, video conferencing solution, managed IT services, automatic backups, SSL management, cost-effective video conferencing]
-categories: [Fully managed, Open Source Hosting, Applications, Live Chat]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Live Chat", "MiroTalk"]
 cover:
   image: images/cover.png
   caption: "Deploy MiroTalk in Minutes with OctaByte.io"

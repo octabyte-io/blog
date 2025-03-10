@@ -4,7 +4,7 @@ title: "Deploy Taiga in Minutes with OctaByte.io"
 date: "2025-03-03"
 description: "Discover how OctaByte.io simplifies the deployment and management of Taiga, a powerful open-source project management tool. Save time, reduce costs, and enjoy seamless support with OctaByte's fully managed services."
 tags: [Taiga deployment, Taiga project management, OctaByte, managed open-source software, Taiga hosting, Taiga benefits, Taiga setup, Taiga support, OctaByte services, Taiga automation]
-categories: [Fully managed, Open Source Hosting, Applications, Project Management]
+categories: ["Fully managed", "Open Source Hosting", "Applications", "Project Management", "Taiga"]
 cover:
   image: images/cover.png
   caption: "Deploy Taiga in Minutes with OctaByte.io"
