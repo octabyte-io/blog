@@ -1,7 +1,8 @@
 baseURL: "https://blog.octabyte.io"
 title: OctaByte Blog
 copyright: "© [OctaByte](https://octabyte.io)"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: ["PaperMod"]
 
 googleAnalytics: "G-BKDK9F3WBP"
@@ -179,7 +180,7 @@ markup:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
   googleAnalytics:
     ID: G-BKDK9F3WBP
