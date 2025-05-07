@@ -8,6 +8,7 @@ tags: [
 ]
 categories: [Fully managed, Open Source Hosting, Help Desk Software]
 cover:
+  relative: true
   image: images/cover.png
   caption: "Top 5 Open Source Freshdesk Alternatives in 2025 (Self-Hosted & Free)"
 ShowToc: true

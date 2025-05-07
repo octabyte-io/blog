@@ -8,6 +8,7 @@ tags: [
 ]
 categories: [Fully managed, Open Source Hosting, Accounting Software]
 cover:
+  relative: true
   image: images/cover.png
   caption: "Best Open-Source Alternatives to Xero for Accounting and Invoicing"
 ShowToc: true
