@@ -136,4 +136,4 @@ Whether you're a solo dev or running an enterprise infrastructure — Pangolin p
 > Let **OctaByte** deploy Pangolin for you — fast, secure, and managed.
 
 
-[![Deploy OSSTranslate with OctaByte](/images/deploy-on-octabyte.png)](https://octabyte.io/fully-managed-open-source-services/development/identity-and-access-management/pangolin)
+[![Deploy Pangolin with OctaByte](/images/deploy-on-octabyte.png)](https://octabyte.io/fully-managed-open-source-services/development/identity-and-access-management/pangolin)
