@@ -14,7 +14,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections: ["topics", "posts", "papermod"]
 
 minify:
   disableXML: true
@@ -26,20 +26,24 @@ taxonomies:
   series: series
 menu:
   main:
+    - name: Search
+      url: search/
+      weight: 1
+    - name: Topics
+      url: topics/
+      weight: 2
+    - name: Categories
+      url: categories/
+      weight: 3
+    - name: Tags
+      url: tags/
+      weight: 4
     - name: Archive
       url: archives
       weight: 5
-    - name: Search
-      url: search/
-      weight: 10
-    - name: Categories
-      url: categories/
-      weight: 10
-    - name: Tags
-      url: tags/
-      weight: 10
     - name: Main website
       url: https://octabyte.io
+      weight: 6
 
 outputs:
   home:
