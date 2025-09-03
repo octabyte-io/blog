@@ -54,7 +54,7 @@ Relational databases remain the backbone of enterprise applications. They use **
 - E-commerce sites  
 - Transactional applications  
 
-Related Post: *PostgreSQL vs MySQL vs MariaDB: Which One Should You Choose?*
+Related Post: [PostgreSQL vs MySQL vs MariaDB: Which One Should You Choose?](/topics/open-source-databases/postgresql-vs-mysql-vs-mariadb)
 
 ---
 

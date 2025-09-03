@@ -1,13 +1,16 @@
 ---
 draft: false
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: {{ .Date }}
-description: "DESCRIPTION_GOES_HERE"
-tags: [KEYWORDS_GOES_HERE]
-categories: ["Fully managed", CATEGORIES]
+title: 'TITLE'
+date: '2025-08-23'
+summary: 'SUMMARY'
+description: 'DESCRIPTION'
+tags: []
+categories: []
+author: 'OctaByte'
 cover:
   image: images/cover.png
-  caption: '{{ replace .File.ContentBaseName "-" " " | title }}'
+  caption: 'CAPTION'
+  alt: 'ALT'
   relative: true
 ShowToc: true
 TocOpen: true
