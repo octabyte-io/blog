@@ -101,9 +101,9 @@ This **hybrid OLTP + OLAP setup** ensures you get the best of both worlds.
 ## Related Comparisons
 
 If you’re exploring analytics-focused databases, you may also want to check:  
-- *ClickHouse vs PostgreSQL for Analytics*
+- [ClickHouse vs PostgreSQL for Analytics](../clickhouse-vs-postgresql-analytics/)
 - [Scaling MySQL for High-Traffic Applications](../scaling-mysql-high-traffic/)  
-- *Top Use Cases of TimescaleDB for Time-Series Data*
+- [Top Use Cases of TimescaleDB for Time-Series Data](../timescaledb-time-series-use-cases/)
 
 ---
 

@@ -84,7 +84,7 @@ To reduce load on [MySQL](https://octabyte.io/fully-managed-open-source-services
 
 Caching is often the **fastest way to reduce database pressure** without changing schema or queries.
 
-Related read: *Redis vs Valkey vs KeyDB: Choosing the Best In-Memory Database*
+Related read: [Redis vs Valkey vs KeyDB: Choosing the Best In-Memory Database](../redis-vs-valkey-vs-keydb/)
 
 ---
 
