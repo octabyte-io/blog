@@ -108,7 +108,7 @@ If Redis is the standard and Valkey is the community fork, KeyDB is the **perfor
 ## Related Comparisons
 - [ClickHouse vs PostgreSQL for Analytics Workloads](/topics/open-source-databases/clickhouse-vs-postgresql-analytics/)  
 - *InfluxDB vs TimescaleDB: Which is Better for Time-Series Data?*
-- *MongoDB Alternative: Why FerretDB is the Future of Open-Source Document Databases*
+- [MongoDB Alternative: Why FerretDB is the Future of Open-Source Document Databases](../ferretdb-mongodb-alternative/)
 
 ---
 

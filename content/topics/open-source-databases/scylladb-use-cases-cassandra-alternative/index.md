@@ -104,4 +104,4 @@ Yes. ScyllaDB typically outperforms Cassandra due to its C++ implementation and 
 Yes. ScyllaDB is fully compatible with Cassandra Query Language (CQL) and APIs, making migration straightforward for most applications.  
 
 **4. Which open-source databases compete with ScyllaDB?**  
-Alternatives include [Cassandra](https://octabyte.io/fully-managed-open-source-services/databases/nosql/cassandra), *MongoDB alternatives like FerretDB*, and [Redis](https://octabyte.io/fully-managed-open-source-services/databases/nosql/redis) for in-memory workloads.  
+Alternatives include [Cassandra](https://octabyte.io/fully-managed-open-source-services/databases/nosql/cassandra), [MongoDB alternatives like FerretDB](../ferretdb-mongodb-alternative/), and [Redis](https://octabyte.io/fully-managed-open-source-services/databases/nosql/redis) for in-memory workloads.  
