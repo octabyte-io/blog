@@ -46,7 +46,7 @@ IoT sensors generate **millions of time-stamped events per second**. ScyllaDB is
 ScyllaDB handles **high-volume, append-only workloads** well, making it a natural fit for messaging platforms or log/event storage.  
 
 - Example: Telecom companies handling SMS, chat, or call metadata.  
-- Related: For real-time event pipelines, see *Kafka as a Database*
+- Related: For real-time event pipelines, see [Kafka as a Database](../kafka-as-database-streaming/)
 
 ---
 
