@@ -145,8 +145,10 @@ Yes. Since TimescaleDB is a PostgreSQL extension, it fully supports PostgreSQL f
 
 **Related Reads:**
 
-* [Top Use Cases of TimescaleDB for Time-Series Data](/topics/open-source-databases/timescaledb-time-series-use-cases/)
-* [Kafka as a Database: When Should You Use It for Streaming Data?](/topics/open-source-databases/kafka-as-database-streaming/)
-* [Top Open-Source Vector Databases Compared](/topics/open-source-databases/vector-databases-comparison/)
+- [Top Use Cases of TimescaleDB for Time-Series Data](/topics/open-source-databases/timescaledb-time-series-use-cases/)
+
+- [Kafka as a Database: When Should You Use It for Streaming Data?](/topics/open-source-databases/kafka-as-database-streaming/)
+
+- [Top Open-Source Vector Databases Compared](/topics/open-source-databases/vector-databases-comparison/)
 
 Want more open-source hosting insights? Don’t miss [The Ultimate Guide to Open-Source Databases (2025)](/topics/open-source-databases/ultimate-guide-2025/)
