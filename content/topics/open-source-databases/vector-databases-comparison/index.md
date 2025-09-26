@@ -163,4 +163,4 @@ Open-source vector databases like **Qdrant, Weaviate, Milvus, and ChromaDB** are
 
 If you’re experimenting with **LLMs, semantic search, or AI-driven recommendations**, choosing the right database can accelerate development and cut costs.  
 
-Want more open-source hosting insights? Don’t miss our guide on *How to Choose Between Relational, NoSQL, and Vector Databases*.  
+Want more open-source hosting insights? Don’t miss our guide on [How to Choose Between Relational, NoSQL, and Vector Databases](../relational-vs-nosql-vs-vector-databases/).  
