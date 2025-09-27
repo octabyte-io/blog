@@ -81,7 +81,7 @@ While both databases target similar use cases, ScyllaDB is often preferred due t
 - **Resource Efficiency:** Handles higher throughput with fewer nodes  
 - **Operational Simplicity:** Lower tuning and maintenance overhead  
 
-If you’re evaluating ScyllaDB vs Cassandra for your workloads, check our *guide to open-source database hosting vs cloud providers*
+If you’re evaluating ScyllaDB vs Cassandra for your workloads, check our [guide to open-source database hosting vs cloud providers](../open-source-vs-cloud-database-hosting/)
 
 ---
 
