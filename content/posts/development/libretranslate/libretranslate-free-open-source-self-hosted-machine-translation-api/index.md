@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "LibreTranslate: Free & Open Source Self-Hosted Machine Translation API"
 date: "2025-03-11"
 description: "Discover LibreTranslate, a powerful, free, and open-source machine translation API that you can self-host. Learn how it compares to other translation tools, its features, and why it’s a perfect choice for businesses and developers looking for privacy and customization."
