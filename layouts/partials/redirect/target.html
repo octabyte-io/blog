@@ -1,0 +1,25 @@
+{{- /* The URL this old blog page moves to:
+       1. a hand-picked page for posts listed in data/cgt_pages.yaml;
+       2. the app's cgt template page for app posts whose app is in data/cgt_templates.yaml
+          (content/posts/<category>/<app>/... or content/posts/fully-managed/deploy-<app>-in-minutes/);
+       3. otherwise the cgt home page. */ -}}
+{{- $base := site.Params.redirectTo -}}
+{{- $target := $base -}}
+{{- with .File -}}
+  {{- $dir := strings.TrimSuffix "/" (path.Clean .Dir) -}}
+  {{- $parts := split $dir "/" -}}
+  {{- with index site.Data.cgt_pages $dir -}}
+    {{- $target = . -}}
+  {{- else -}}
+    {{- if and (ge (len $parts) 3) (eq (index $parts 0) "posts") -}}
+      {{- $slug := index $parts 2 -}}
+      {{- if eq (index $parts 1) "fully-managed" -}}
+        {{- $slug = $slug | strings.TrimPrefix "deploy-" | strings.TrimSuffix "-in-minutes" -}}
+      {{- end -}}
+      {{- with index site.Data.cgt_templates $slug -}}
+        {{- $target = printf "%stemplates/%s/" $base . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $target -}}

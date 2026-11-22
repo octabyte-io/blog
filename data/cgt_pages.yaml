@@ -1,0 +1,5 @@
+# Old blog posts that are not about one app but have a close match on the new sites.
+# Key: the post's folder under content/. Value: the full URL it redirects to.
+"posts/open-source-alternative-to-mailchimp'": "https://cgt.octabyte.io/alternatives/mailchimp/"
+"posts/top-open-source-email-marketing-tools-listmonk-postal-mautic": "https://cgt.octabyte.io/alternatives/mailchimp/"
+"posts/how-to-access-and-manage-your-server-on-octabyte": "https://cloudgate.octabyte.io/docs/guide/servers"

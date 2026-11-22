@@ -1,0 +1,31 @@
+{{- /* GitHub Pages serves this for any URL that has no page, such as removed posts. It looks up the
+       app from the path (/posts/<category>/<app>/... or /posts/fully-managed/deploy-<app>-in-minutes/)
+       and sends it to its cgt template, or to the cgt home page. */ -}}
+{{- $to := site.Params.redirectTo -}}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Moved to Cloudgate</title>
+    <meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>
+      (function () {
+        var base = {{ $to }};
+        var templates = {{ site.Data.cgt_templates | jsonify | safeJS }};
+        var to = base;
+        var parts = location.pathname.split("/").filter(Boolean);
+        if (parts[0] === "posts" && parts.length >= 3) {
+          var slug = parts[2];
+          if (parts[1] === "fully-managed") slug = slug.replace(/^deploy-/, "").replace(/-in-minutes$/, "");
+          if (templates[slug]) to = base + "templates/" + templates[slug] + "/";
+        }
+        location.replace(to);
+      })();
+    </script>
+    <meta http-equiv="refresh" content="1; url={{ $to }}" />
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ $to }}">Cloudgate Templates</a>.</p>
+  </body>
+</html>

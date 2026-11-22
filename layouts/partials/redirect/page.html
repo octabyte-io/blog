@@ -1,0 +1,18 @@
+{{- /* Every page on blog.octabyte.io is now a redirect stub. GitHub Pages cannot send HTTP 301s, so
+       the page redirects with an instant meta refresh (which Google treats as a permanent redirect),
+       a canonical link to the new URL, a JavaScript fallback, and a plain link for anyone else. */ -}}
+{{- $to := partial "redirect/target.html" . -}}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Moved to Cloudgate</title>
+    <link rel="canonical" href="{{ $to }}" />
+    <meta http-equiv="refresh" content="0; url={{ $to }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script>location.replace({{ $to }});</script>
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ $to }}">{{ $to }}</a>.</p>
+  </body>
+</html>
