@@ -52,8 +52,8 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Get Theme
         run: git submodule update --init --recursive
-      - name: Update theme to Latest commit
-        run: git submodule update --remote --merge
+      # The theme stays on the commit pinned in the submodule. Pulling the latest PaperMod broke the
+      # build once it started requiring a newer Hugo (min 0.158.0) than the one installed above.
       - name: Build with Hugo
         run: |
           export HUGO_ENV=production
